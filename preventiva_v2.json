@@ -1,0 +1,2058 @@
+[
+    {
+        "pregunta": "¿Cómo se define la salud según la medicina preventiva?",
+        "respuesta": "c",
+        "a": "Equilibrio entre bienestar físico y capacidad funcional social",
+        "b": "Ausencia de enfermedades crónicas y agudas",
+        "c": "Bienestar físico, mental y social con capacidad de funcionamiento",
+        "d": "Capacidad adaptativa frente al estrés psicológico"
+    },
+    {
+        "pregunta": "En el continuo salud-enfermedad, ¿qué acción se realiza cuando una persona está más cerca de la enfermedad?",
+        "respuesta": "d",
+        "a": "Fomentar estilos de vida saludables",
+        "b": "Implementar medidas de saneamiento ambiental",
+        "c": "Aplicar intervenciones de detección temprana",
+        "d": "Restaurar la salud mediante tratamientos médicos y terapias"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un determinante de la salud en el nivel 3 y 4?",
+        "respuesta": "b",
+        "a": "Genética y predisposición biológica",
+        "b": "Calidad del entorno físico y social",
+        "c": "Hábitos alimenticios y actividad física",
+        "d": "Acceso y eficacia del sistema de atención sanitaria"
+    },
+    {
+        "pregunta": "¿Qué nivel de prevención se encarga de prevenir la aparición de la enfermedad y promover la salud?",
+        "respuesta": "a",
+        "a": "Prevención primaria mediante intervenciones preventivas amplias",
+        "b": "Prevención secundaria enfocada en la detección temprana",
+        "c": "Prevención terciaria dirigida a la rehabilitación de pacientes",
+        "d": "Prevención cuaternaria orientada a evitar el sobretratamiento"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes acciones corresponde a la prevención terciaria?",
+        "respuesta": "d",
+        "a": "Implementar programas de educación física en la comunidad",
+        "b": "Llevar a cabo campañas masivas de inmunización",
+        "c": "Realizar exámenes de cribado para identificar enfermedades en fases iniciales",
+        "d": "Proporcionar tratamientos especializados para minimizar las secuelas de enfermedades crónicas"
+    },
+    {
+        "pregunta": "¿Cuál es el principal objetivo de la educación sanitaria?",
+        "respuesta": "b",
+        "a": "Desarrollar tecnologías médicas innovadoras",
+        "b": "Capacitar a la población para gestionar su salud y prevenir enfermedades",
+        "c": "Optimizar la logística y distribución de recursos sanitarios",
+        "d": "Incrementar la inversión en infraestructura hospitalaria"
+    },
+    {
+        "pregunta": "Según el modelo transteórico del cambio, ¿cuál es la etapa que sigue después de la contemplación?",
+        "respuesta": "a",
+        "a": "Preparación para la acción concreta",
+        "b": "Inicio de la acción para modificar el comportamiento",
+        "c": "Consolidación y mantenimiento del cambio adoptado",
+        "d": "Evaluación de retrocesos y recaídas"
+    },
+    {
+        "pregunta": "En el modelo de aprendizaje social, ¿qué concepto es fundamental para la modificación de conductas?",
+        "respuesta": "c",
+        "a": "Uso de refuerzos positivos para incentivar comportamientos",
+        "b": "Observación y replicación de modelos comportamentales",
+        "c": "Desarrollo de la autoeficacia para fomentar la confianza en la capacidad de cambio",
+        "d": "Eliminación de conductas no deseadas mediante desaprendizaje"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un método indirecto de intervención en educación sanitaria?",
+        "respuesta": "d",
+        "a": "Realización de talleres interactivos",
+        "b": "Facilitación de grupos focales",
+        "c": "Organización de seminarios educativos",
+        "d": "Distribución de materiales informativos impresos"
+    },
+    {
+        "pregunta": "En el modelo PRECEDE, ¿qué tipo de factores se analizan antes de desarrollar un plan educativo?",
+        "respuesta": "a",
+        "a": "Factores predisponentes, facilitadores y de refuerzo",
+        "b": "Factores estructurales, de comportamiento y biológicos",
+        "c": "Factores económicos, tecnológicos y culturales",
+        "d": "Factores demográficos, ambientales y legislativos"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes acciones corresponde a un ámbito de actuación en la educación sanitaria?",
+        "respuesta": "c",
+        "a": "Desarrollo de plataformas de e-learning para profesionales de la salud",
+        "b": "Implementación de sistemas de vigilancia epidemiológica",
+        "c": "Intervención en la comunidad para promover hábitos saludables",
+        "d": "Diseño de programas de formación continua para médicos"
+    },
+    {
+        "pregunta": "¿Qué tipo de intervención en educación sanitaria implica la promoción de medidas políticas para mejorar la salud de la población?",
+        "respuesta": "d",
+        "a": "Establecimiento de comités de salud local",
+        "b": "Desarrollo de planes de asesoramiento individual",
+        "c": "Facilitación de grupos de apoyo comunitario",
+        "d": "Promoción de la salud mediante políticas públicas"
+    },
+    {
+        "pregunta": "¿Qué componente no forma parte de un ecosistema?",
+        "respuesta": "d",
+        "a": "Productores como las plantas",
+        "b": "Consumidores como los herbívoros",
+        "c": "Descomponedores como los bacterias",
+        "d": "Microscopios utilizados en laboratorios"
+    },
+    {
+        "pregunta": "¿Cuál es la principal causa ambiental de enfermedad y muerte prematura a nivel mundial?",
+        "respuesta": "a",
+        "a": "Contaminación del agua",
+        "b": "Deforestación extensiva",
+        "c": "Cambio climático inducido por el hombre",
+        "d": "Gestión inadecuada de residuos sólidos urbanos"
+    },
+    {
+        "pregunta": "Según los estándares de calidad del aire, ¿cómo se comparan los límites establecidos por la Unión Europea (UE) con los de la Organización Mundial de la Salud (OMS)?",
+        "respuesta": "b",
+        "a": "La UE establece límites ligeramente más altos que la OMS",
+        "b": "La UE establece límites aproximadamente el doble de altos que la OMS",
+        "c": "La UE y la OMS tienen diferencias significativas en varios contaminantes específicos",
+        "d": "La UE sigue las recomendaciones de la OMS pero las adapta a sus propios contextos regulatorios"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes partículas contaminantes es capaz de penetrar en el torrente sanguíneo y está relacionada con el cáncer?",
+        "respuesta": "c",
+        "a": "Ozono troposférico",
+        "b": "Dióxido de nitrógeno",
+        "c": "Partículas PM2.5",
+        "d": "Monóxido de carbono"
+    },
+    {
+        "pregunta": "¿Qué grupo de personas es considerado más vulnerable a los efectos de la contaminación ambiental?",
+        "respuesta": "a",
+        "a": "Niños, ancianos y personas con enfermedades crónicas",
+        "b": "Adolescentes en desarrollo",
+        "c": "Adultos sanos en áreas urbanas",
+        "d": "Trabajadores al aire libre sin protección"
+    },
+    {
+        "pregunta": "¿Cuál es el principal efecto del aumento de gases de efecto invernadero en la troposfera?",
+        "respuesta": "d",
+        "a": "Aumento de la radiación ultravioleta llegando a la superficie",
+        "b": "Enfriamiento de las capas superiores de la atmósfera",
+        "c": "Disminución de la circulación atmosférica global",
+        "d": "Retención de mayor cantidad de calor, provocando el calentamiento global"
+    },
+    {
+        "pregunta": "¿Qué medida es considerada costo-efectiva para reducir las emisiones de gases de efecto invernadero relacionadas con los hogares?",
+        "respuesta": "b",
+        "a": "Implementar tecnologías de calefacción avanzadas sin considerar accesibilidad",
+        "b": "Promover el uso de transporte público y fomentar el uso de bicicletas",
+        "c": "Incentivar el reciclaje de residuos sólidos sin paralelo a programas de reducción",
+        "d": "Desarrollar vehículos eléctricos sin mejorar la infraestructura de carga"
+    },
+    {
+        "pregunta": "¿Cuál es el porcentaje de agua potable disponible en la superficie terrestre?",
+        "respuesta": "c",
+        "a": "Menos del 1% del agua total en la Tierra es agua potable accesible superficialmente",
+        "b": "Aproximadamente 2% del agua total en la Tierra es agua superficialmente potable",
+        "c": "Aproximadamente 0.3% del agua total en la Tierra es agua potable superficialmente disponible",
+        "d": "Más del 50% del agua potable está en forma de hielo polar"
+    },
+    {
+        "pregunta": "Según la OMS, ¿cuál es la cantidad mínima de agua por persona y día para considerar un suministro seguro?",
+        "respuesta": "b",
+        "a": "50 litros por persona al día, incluyendo todas las necesidades domésticas",
+        "b": "100 litros por persona al día para cumplir con estándares de seguridad sanitaria",
+        "c": "30 litros por persona al día para consumo básico",
+        "d": "75 litros por persona al día, combinando uso personal y doméstico"
+    },
+    {
+        "pregunta": "¿Qué relación de coliformes a estreptococos fecales indica un origen de contaminación humana en el agua?",
+        "respuesta": "a",
+        "a": "CF/EF >4, sugiriendo predominio de fuentes humanas",
+        "b": "CF/EF <0.7, indicando contaminación animal",
+        "c": "CF/EF =1, lo que sugiere una mezcla de fuentes humanas y animales",
+        "d": "CF/EF entre 1 y 2, reflejando contaminación ambiental"
+    },
+    {
+        "pregunta": "¿Cuál es el riesgo para la salud asociado al consumo de menos de 20 litros de agua por persona y día según la OMS?",
+        "respuesta": "b",
+        "a": "Riesgo mínimo con impacto limitado en la salud pública",
+        "b": "Alto riesgo de enfermedades transmitidas por el agua y deshidratación",
+        "c": "Riesgo crítico que puede llevar a brotes epidémicos inmediatos",
+        "d": "Riesgo moderado con necesidad de intervención local"
+    },
+    {
+        "pregunta": "¿Qué porcentaje de la población mundial se estima que sufrirá escasez de agua para el año 2025?",
+        "respuesta": "d",
+        "a": "30%, afectando principalmente regiones semiáridas",
+        "b": "20%, concentrándose en áreas urbanas en rápido crecimiento",
+        "c": "10%, con impactos limitados a sectores agrícolas",
+        "d": "50%, influenciado por cambios climáticos y aumento de la demanda"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un indicador de contaminación aguda en el agua?",
+        "respuesta": "c",
+        "a": "Presencia exclusiva de clostridios, indicando contaminación antigua",
+        "b": "Relación coliformes/estreptococos fecales <0.7, señalando fuentes industriales",
+        "c": "Presencia de estreptococos y coliformes, sugiriendo contaminación reciente y humana",
+        "d": "Ausencia de microorganismos, lo que indica alta calidad del agua"
+    },
+    {
+        "pregunta": "¿Qué grupo de personas es considerado más vulnerable a los riesgos sanitarios del agua contaminada?",
+        "respuesta": "d",
+        "a": "Adultos jóvenes con sistemas inmunológicos robustos",
+        "b": "Profesionales de la salud expuestos a pacientes infectados",
+        "c": "Atletas que requieren hidratación constante",
+        "d": "Niños, ancianos y personas con enfermedades crónicas"
+    },
+    {
+        "pregunta": "¿Cuál es el tipo de residuo sanitario que solo presenta riesgo de infección dentro del centro sanitario y cómo debe ser envasado?",
+        "respuesta": "b",
+        "a": "Residuos generales, en bolsa negra reforzada",
+        "b": "Biosanitarios asimilables a urbanos, en bolsa verde opaca con cierre seguro",
+        "c": "Residuos citotóxicos, en envase azul rígido con indicación de contenido peligroso",
+        "d": "Residuos radiactivos, gestionados exclusivamente por entidades especializadas como ENRESA"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes características NO es requerida para el envasado de residuos biosanitarios especiales punzantes?",
+        "respuesta": "d",
+        "a": "Envase rígido o semirrígido para evitar perforaciones",
+        "b": "Pictograma de biopeligroso para identificación",
+        "c": "Resistente a la humedad para prevenir la proliferación bacteriana",
+        "d": "Capacidad de más de 80 litros, lo cual excede los requisitos estándar"
+    },
+    {
+        "pregunta": "¿Qué tipo de residuo sanitario debe ser incinerado a 1100º en un horno pirolítico y cómo debe ser envasado?",
+        "respuesta": "c",
+        "a": "Residuos generales, en bolsas negras reforzadas para combustión",
+        "b": "Residuos químicos, en envases resistentes a altas temperaturas",
+        "c": "Residuos citotóxicos, en envases azules rígidos con sello hermético",
+        "d": "Residuos radiactivos, gestionados y acondicionados por entidades como ENRESA"
+    },
+    {
+        "pregunta": "¿Cuál es el procedimiento adecuado para los residuos biosanitarios antes de ser depositados en el vertedero autorizado?",
+        "respuesta": "a",
+        "a": "Autoclave a 134ºC, triturar y depositar entre capas de arena para asegurar la desinfección completa",
+        "b": "Autoclave a 121ºC, enfriar y depositar en contenedores cerrados sin necesidad de triturar",
+        "c": "Esterilización química seguida de compactación y disposición en vertederos controlados",
+        "d": "Tratamiento térmico a baja temperatura y encapsulamiento en materiales biodegradables"
+    },
+    {
+        "pregunta": "¿Qué tipo de residuo sanitario requiere ser gestionado por un gestor debido a su potencial infeccioso tanto dentro como fuera del centro sanitario?",
+        "respuesta": "a",
+        "a": "Biosanitarios especiales que incluyen desechos patógenos y materiales punzantes",
+        "b": "Residuos reciclables como plásticos y papel provenientes de áreas administrativas",
+        "c": "Residuos orgánicos generados por cocinas y comedores dentro del centro sanitario",
+        "d": "Residuos electrónicos como equipos médicos obsoletos y dispositivos electrónicos"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes agentes de limpieza se inactiva en presencia de materia orgánica durante la limpieza de piel y objetos?",
+        "respuesta": "b",
+        "a": "Clorhexidina, ya que es resistente y mantiene su eficacia en condiciones adversas",
+        "b": "Hipoclorito sódico, cuya actividad antimicrobiana disminuye significativamente ante materia orgánica",
+        "c": "Alcohol etílico, que mantiene su efectividad independientemente de la presencia de materia orgánica",
+        "d": "Povidona yodada, que tiene una alta estabilidad frente a contaminantes orgánicos"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes antisépticos no se ve afectado por la presencia de materia orgánica durante la antisepsia?",
+        "respuesta": "c",
+        "a": "Alcohol isopropílico, que requiere superficies completamente limpias para ser efectivo",
+        "b": "Povidona yodada, cuya eficacia puede reducirse en presencia de sangre u otros fluidos",
+        "c": "Clorhexidina, que mantiene su actividad antimicrobiana incluso con materia orgánica presente",
+        "d": "Fenoles, que son menos efectivos en condiciones con alta carga biológica"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes métodos de esterilización utiliza vapor a alta presión y puede ser realizado en dos modalidades, húmeda y seca?",
+        "respuesta": "b",
+        "a": "Esterilización por óxido de etileno, que no utiliza vapor ni alta presión",
+        "b": "Autoclave, que emplea vapor a alta presión en modalidades húmeda y seca",
+        "c": "Esterilización por radiación UV, que no involucra vapor ni presión",
+        "d": "Esterilización química con peróxido de hidrógeno, que no utiliza vapor ni presión"
+    },
+    {
+        "pregunta": "¿Qué tipo de material sanitario, que entra en contacto con cavidades o tejidos estériles, requiere un proceso de esterilización?",
+        "respuesta": "c",
+        "a": "Material no crítico, que solo entra en contacto con la piel intacta",
+        "b": "Material semicrítico, que contacta mucosas o piel lesionada",
+        "c": "Material crítico, que entra en contacto con cavidades corporales o tejidos estériles",
+        "d": "Material desechable, que está diseñado para un solo uso y no requiere esterilización"
+    },
+    {
+        "pregunta": "¿Cuál es la definición correcta de esterilización en el contexto de limpieza de objetos sanitarios?",
+        "respuesta": "c",
+        "a": "Desinfección completa, eliminando todas las bacterias pero no las esporas",
+        "b": "Terminado de limpieza superficial, reduciendo significativamente la carga microbiana",
+        "c": "Eliminación total de gérmenes y esporas, alcanzando una reducción de 10^-6 de organismos",
+        "d": "Tratamiento químico parcial, disminuyendo la cantidad de microorganismos presentes"
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre la desratización pasiva y la desratización activa?",
+        "respuesta": "a",
+        "a": "La desratización pasiva se enfoca en la prevención modificando el nicho ecológico, mientras que la desratización activa elimina directamente a los roedores mediante métodos físicos o químicos",
+        "b": "La desratización pasiva utiliza únicamente métodos químicos, mientras que la desratización activa utiliza exclusivamente trampas mecánicas",
+        "c": "La desratización pasiva es responsabilidad de organismos gubernamentales, y la activa de contratistas privados",
+        "d": "La desratización pasiva elimina roedores existentes sin prevenir futuras infestaciones, mientras que la activa previene infestas futuras sin eliminar las existentes"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes plagas es vigilada por el Departamento de Control de Vectores de Madrid Salud?",
+        "respuesta": "d",
+        "a": "Termitas, pulgas, mosquitos y abejas silvestres",
+        "b": "Caracoles, arañas domésticas, cucarachas urbanas y polillas de ropa",
+        "c": "Hormigas carpinteras, chinches de cama, langostas migratorias y mariposas nocturnas",
+        "d": "Arbovirus, mosca negra, garrapatas y flebotomos, vectores de enfermedades infecciosas"
+    },
+    {
+        "pregunta": "¿Qué certificación debe tener una empresa para ser considerada adecuada según el 'Manual de buenas prácticas para el control de plagas y vectores'?",
+        "respuesta": "b",
+        "a": "Certificado de calidad ISO 9001, que no aborda específicamente el control de plagas",
+        "b": "Certificado de inscripción en el Registro de Biocidas de la Comunidad de Madrid, asegurando el cumplimiento de normativas locales",
+        "c": "Licencia sanitaria emitida por el Ministerio de Salud, que es más general y no específica para control de plagas",
+        "d": "Acreditación por el Departamento de Control de Vectores, que no es una certificación reconocida oficialmente"
+    },
+    {
+        "pregunta": "Dentro del Plan de Gestión Integral de plagas, ¿qué aspectos se deben incorporar además del control de las plagas?",
+        "respuesta": "c",
+        "a": "Únicamente factores ambientales, sin considerar otros aspectos",
+        "b": "Solo factores socioeconómicos, dejando de lado el control directo de plagas",
+        "c": "Prevención y control considerando factores ambientales y socioeconómicos para una gestión sostenible",
+        "d": "Acciones reactivas y correctivas sin considerar el entorno o factores preventivos"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes afirmaciones sobre los plaguicidas es correcta?",
+        "respuesta": "a",
+        "a": "El uso de plaguicidas puede llevar al desarrollo de resistencias en las plagas y causar intoxicaciones en humanos y animales",
+        "b": "Los plaguicidas son completamente seguros para el medio ambiente cuando se usan según las indicaciones",
+        "c": "Los plaguicidas físicos, como trampas y barreras, son más peligrosos para la salud humana que los químicos",
+        "d": "La resistencia a los plaguicidas no representa un problema significativo en el manejo sostenible de las plagas"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes define mejor un evento adverso (EA) en el contexto de la seguridad del paciente?",
+        "respuesta": "b",
+        "a": "Un evento que ocurre durante la atención médica pero no resulta en daño al paciente.",
+        "b": "Daño causado por un medicamento o complicación médica que resulta en hospitalización prolongada o discapacidad.",
+        "c": "Un suceso que llega al paciente y produce un efecto no deseado menor sin necesidad de intervención adicional.",
+        "d": "Cualquier discrepancia en la atención del paciente que podría potencialmente causar daño."
+    },
+    {
+        "pregunta": "¿Qué porcentaje de pacientes experimenta eventos adversos según las notas proporcionadas?",
+        "respuesta": "a",
+        "a": "10%",
+        "b": "7%",
+        "c": "12%",
+        "d": "18%"
+    },
+    {
+        "pregunta": "¿Cuál es la frecuencia más común de los eventos adversos en los pacientes?",
+        "respuesta": "d",
+        "a": "Reacciones alérgicas severas a medicamentos",
+        "b": "Complicaciones postoperatorias",
+        "c": "Errores en la administración de tratamientos",
+        "d": "Eventos relacionados con la medicación"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes modelos de seguridad del paciente se utiliza actualmente y no culpabiliza al personal por los errores?",
+        "respuesta": "c",
+        "a": "Modelo de responsabilidad compartida",
+        "b": "Modelo de prevención de errores",
+        "c": "Modelo centrado en los sistemas",
+        "d": "Modelo de rendición de cuentas individuales"
+    },
+    {
+        "pregunta": "Según el modelo centrado en los sistemas, ¿cómo se abordan los errores cometidos por el personal de salud?",
+        "respuesta": "a",
+        "a": "Se analiza el sistema para identificar fallos y se implementan mejoras para evitar futuros errores.",
+        "b": "Se imponen sanciones al personal involucrado en el error.",
+        "c": "Se evalúa la competencia individual del personal para prevenir errores.",
+        "d": "Se documentan los errores para estadística sin tomar medidas adicionales."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes prácticas es fundamental para garantizar la seguridad del paciente?",
+        "respuesta": "d",
+        "a": "Incrementar la automatización en todos los procedimientos médicos.",
+        "b": "Fomentar la competencia entre equipos de salud para mejorar el rendimiento.",
+        "c": "Implementar tecnologías avanzadas sin formación previa del personal.",
+        "d": "Realizar una higiene de manos adecuada."
+    },
+    {
+        "pregunta": "¿Qué objetivo tiene el borrador de la OMS para la seguridad del paciente para el año 2027?",
+        "respuesta": "b",
+        "a": "Establecer estándares universales para la atención médica.",
+        "b": "Reducir los eventos adversos graves en un 50%.",
+        "c": "Expandir la cobertura de seguros de salud a nivel mundial.",
+        "d": "Mejorar únicamente los sistemas de notificación de incidentes."
+    },
+    {
+        "pregunta": "¿Qué modelo de seguridad del paciente se asemeja al 'queso suizo' debido a sus múltiples capas de defensa?",
+        "respuesta": "c",
+        "a": "Modelo de defensa individual",
+        "b": "Modelo de seguridad por barreras",
+        "c": "Modelo centrado en los sistemas",
+        "d": "Modelo de redundancia operacional"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes mascarillas es la más adecuada para prevenir la transmisión aérea de tuberculosis pulmonar?",
+        "respuesta": "c",
+        "a": "Mascarilla quirúrgica de alta filtración",
+        "b": "Mascarilla respiratoria N95",
+        "c": "FFP2",
+        "d": "Mascarilla con válvula de exhalación"
+    },
+    {
+        "pregunta": "En el aislamiento de contacto, ¿cuál de los siguientes gérmenes requiere la implementación de medidas específicas como el uso de guantes y bata desechable?",
+        "respuesta": "a",
+        "a": "Pseudomonas aeruginosa",
+        "b": "Influenza A",
+        "c": "Norovirus",
+        "d": "Streptococcus pneumoniae"
+    },
+    {
+        "pregunta": "¿Cuál es la orden correcta para ponerse el material de protección personal según las precauciones estándar?",
+        "respuesta": "a",
+        "a": "Bata, guantes, mascarilla",
+        "b": "Guantes, mascarilla, bata",
+        "c": "Mascarilla, guantes, bata",
+        "d": "Guantes, bata, mascarilla"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes gérmenes es resistente a carbapenemas y requiere aislamiento de acuerdo con las precauciones de contacto?",
+        "respuesta": "d",
+        "a": "Virus sincitial respiratorio (VSR)",
+        "b": "Neisseria meningitidis",
+        "c": "Influenza",
+        "d": "Acinetobacter baumannii"
+    },
+    {
+        "pregunta": "¿Cuál es la medida de prevención más importante para evitar la transmisión por gotas en el hospital?",
+        "respuesta": "b",
+        "a": "Uso exclusivo de guantes sin otras medidas complementarias.",
+        "b": "Higiene de manos adecuada.",
+        "c": "Aislamiento en sala con presión negativa para todas las infecciones por gotas.",
+        "d": "Uso de bata desechable únicamente durante procedimientos invasivos."
+    },
+    {
+        "pregunta": "Para la transmisión aérea, ¿qué característica debe tener la habitación donde se aísla al paciente?",
+        "respuesta": "c",
+        "a": "Presión positiva y ventilación con filtros HEPA.",
+        "b": "Ventanas abiertas con flujo de aire natural continuo.",
+        "c": "Presión negativa y puertas cerradas para evitar la propagación del aire contaminado.",
+        "d": "Aire acondicionado con recirculación para mantener la temperatura constante."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes gérmenes está asociado con la sospecha de meningitis bacteriana y requiere precauciones de transmisión por gotas?",
+        "respuesta": "a",
+        "a": "Neisseria meningitidis.",
+        "b": "Varicela zoster – principalmente transmisión por contacto directo y aerogénica.",
+        "c": "Mycobacterium tuberculosis – requiere precauciones aéreas.",
+        "d": "Staphylococcus aureus – principalmente transmisión por contacto."
+    },
+    {
+        "pregunta": "¿Qué tipo de mascarilla se debe utilizar durante procedimientos con salpicaduras para prevenir la transmisión por gotas?",
+        "respuesta": "a",
+        "a": "Mascarilla quirúrgica.",
+        "b": "FFP3 para máxima protección en entornos con alto riesgo.",
+        "c": "Mascarilla de tela con múltiples capas.",
+        "d": "Sin mascarilla si se utiliza protección ocular adecuada."
+    },
+    {
+        "pregunta": "En el contexto de la limpieza de objetos en el hospital, ¿qué método es adecuado para la vajilla?",
+        "respuesta": "b",
+        "a": "Uso de ropa sucia para absorber residuos.",
+        "b": "Lavado con agua y jabón siguiendo protocolos de higiene.",
+        "c": "Limpieza con alcohol etílico al 70%.",
+        "d": "Exposición al aire libre para que el sol desinfecte de manera natural."
+    },
+    {
+        "pregunta": "¿Cómo se define una infección asociada a dispositivos en el contexto de procedimientos médicos?",
+        "respuesta": "c",
+        "a": "Una infección que ocurre exclusivamente en el sitio de incisión quirúrgica sin relación con dispositivos.",
+        "b": "Una infección adquirida en la comunidad que afecta solo a pacientes inmunocomprometidos.",
+        "c": "Una infección relacionada con el uso de instrumentos semicríticos en procedimientos diagnósticos o terapéuticos.",
+        "d": "Cualquier infección que se desarrolla dentro de las 48 horas posteriores al ingreso hospitalario."
+    },
+    {
+        "pregunta": "¿Cuál es la flora más comúnmente asociada a las infecciones relacionadas con dispositivos médicos?",
+        "respuesta": "a",
+        "a": "Flora endógena del propio paciente.",
+        "b": "Flora exógena proveniente del ambiente externo.",
+        "c": "Flora ambiental presente en superficies hospitalarias.",
+        "d": "Flora fúngica asociada a materiales contaminados."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes no es una medida preventiva general para evitar infecciones asociadas a dispositivos?",
+        "respuesta": "d",
+        "a": "Antisepsia exhaustiva con germicidas específicos antes de la inserción.",
+        "b": "Asepsia rigurosa para evitar la contaminación durante el manejo del dispositivo.",
+        "c": "Profilaxis con antibióticos en procedimientos de alto riesgo.",
+        "d": "Uso prolongado del dispositivo sin justificación clínica, aumentando el riesgo de colonización."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes afirmaciones sobre la bacteriuria asintomática en infecciones urinarias asociadas a sondajes es correcta?",
+        "respuesta": "b",
+        "a": "Debe tratarse siempre con antibióticos para prevenir sepsis.",
+        "b": "La mayoría de los casos no requieren tratamiento a menos que haya síntomas clínicos.",
+        "c": "Indica una infección sistémica que necesita hospitalización urgente.",
+        "d": "Es un signo seguro de colonización activa del catéter sin riesgo de complicaciones."
+    },
+    {
+        "pregunta": "¿Qué medida preventiva es esencial para reducir la bacteriemia asociada a dispositivos vasculares de corta duración?",
+        "respuesta": "a",
+        "a": "Uso de material estéril durante la inserción y manejo del dispositivo.",
+        "b": "Aumentar el número de manipulaciones del dispositivo para mantenerlo funcional.",
+        "c": "Utilizar catéteres de mayor calibre para facilitar el flujo sanguíneo.",
+        "d": "Permitir un mayor número de visitas del personal sanitario para monitorear al paciente."
+    },
+    {
+        "pregunta": "En la prevención de la neumonía nosocomial, ¿cuál de las siguientes medidas es crucial?",
+        "respuesta": "d",
+        "a": "Incrementar el uso de antibióticos de amplio espectro para prevenir infecciones secundarias.",
+        "b": "Aislar al paciente en habitación individual sin implementar otras medidas de higiene.",
+        "c": "Reducir la higiene bucal del paciente para evitar irritaciones que puedan causar infecciones.",
+        "d": "Implementar una correcta fijación y rehabilitación respiratoria para mejorar la función pulmonar y prevenir aspiraciones."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes prácticas no es recomendada para prevenir infecciones urinarias asociadas a sondajes?",
+        "respuesta": "d",
+        "a": "Mantener el circuito cerrado del sondaje para evitar la entrada de patógenos.",
+        "b": "Pegar la bolsa de drenaje a la pierna del paciente y mantenerla por debajo del nivel de la vejiga.",
+        "c": "Recambiar la bolsa de drenaje cada 8 días siguiendo las recomendaciones de higiene.",
+        "d": "Permitir que la sonda toque el suelo para facilitar el drenaje natural sin riesgo de contaminación."
+    },
+    {
+        "pregunta": "¿Qué característica debe tener el apósito para prevenir la bacteriemia asociada a dispositivos vasculares?",
+        "respuesta": "b",
+        "a": "Debe ser reutilizable para reducir costos y facilitar su manejo.",
+        "b": "Debe tener una fecha de caducidad para garantizar su esterilidad y efectividad.",
+        "c": "Debe ser de material absorbente para evitar derrames de líquidos corporales.",
+        "d": "Debe colocarse en cualquier extremidad sin consideraciones de flujo sanguíneo o acceso."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas es específica para la prevención de infecciones en heridas quirúrgicas?",
+        "respuesta": "c",
+        "a": "Uso de antibióticos profilácticos únicamente después de la intervención según protocolos específicos.",
+        "b": "Exposición controlada al aire mediante ventilación estéril para facilitar la cicatrización.",
+        "c": "Antisepsia con clorhexidina alcohólica al 2% y eliminación del vello sin rasurar antes de la cirugía.",
+        "d": "Mantenimiento de niveles elevados de humedad en el quirófano para reducir la contaminación ambiental."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe correctamente una Infección Relacionada con la Asistencia Sanitaria (IRAS)?",
+        "respuesta": "b",
+        "a": "Una infección presente al momento del ingreso del paciente al centro sanitario, identificada en los primeros 48 horas de hospitalización.",
+        "b": "Una infección adquirida durante el proceso asistencial que no estaba presente ni incubándose al ingreso del paciente.",
+        "c": "Cualquier infección que se transmite en la comunidad independiente de la atención sanitaria recibida.",
+        "d": "Una infección que afecta únicamente al personal sanitario tras la exposición a fluidos corporales."
+    },
+    {
+        "pregunta": "¿Cuál es uno de los factores de riesgo intrínseco para el desarrollo de IRAS?",
+        "respuesta": "c",
+        "a": "Alta rotación del personal sanitario que puede afectar la continuidad de los cuidados.",
+        "b": "Disponibilidad limitada de material de asepsia, lo que compromete las prácticas de higiene.",
+        "c": "Comorbilidades del paciente que debilitan su sistema inmunológico y aumentan la susceptibilidad a infecciones.",
+        "d": "Uso inapropiado de antibióticos que puede llevar al desarrollo de resistencias bacterianas."
+    },
+    {
+        "pregunta": "¿En qué unidad sanitaria se registran con mayor frecuencia las IRAS?",
+        "respuesta": "a",
+        "a": "Unidad de Cuidados Intensivos (UCI) debido a la complejidad y duración de las intervenciones.",
+        "b": "Unidades de atención primaria donde se manejan múltiples pacientes con diversas condiciones.",
+        "c": "Consultorios de especialidades que realizan procedimientos invasivos regularmente.",
+        "d": "Unidades de diagnóstico por imágenes que utilizan equipos estériles para diversas pruebas."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes pacientes presenta mayor riesgo de desarrollar una IRAS?",
+        "respuesta": "d",
+        "a": "Paciente con estancia hospitalaria menor a 5 días y sin procedimientos invasivos.",
+        "b": "Paciente que no requiere catéter intravenoso y se moviliza regularmente.",
+        "c": "Paciente sin comorbilidades y con un sistema inmunológico saludable.",
+        "d": "Paciente que permanece más de 15 días en el hospital, especialmente si requiere dispositivos invasivos."
+    },
+    {
+        "pregunta": "¿Qué medida de prevención es considerada la más eficaz para evitar las IRAS?",
+        "respuesta": "a",
+        "a": "Lavado de manos con soluciones hidroalcohólicas en los momentos clave de atención al paciente.",
+        "b": "Uso rutinario de guantes en todos los procedimientos independientemente del tipo de contacto.",
+        "c": "Aislamiento de todos los pacientes con infecciones conocidas para prevenir la transmisión.",
+        "d": "Desinfección del ambiente hospitalario una vez al día como medida preventiva general."
+    },
+    {
+        "pregunta": "¿Cuál es una de las consecuencias de las IRAS en los pacientes?",
+        "respuesta": "b",
+        "a": "Reducción de días hospitalizados debido a una pronta recuperación.",
+        "b": "Aumento de la mortalidad asociada a la complicación de infecciones adquiridas.",
+        "c": "Disminución de costos hospitalarios al reducir la duración de la estancia.",
+        "d": "Menor necesidad de antibióticos al evitar infecciones secundarias."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes bacterias resistentes es considerada de prioridad 1 crítica en el contexto de IRAS?",
+        "respuesta": "d",
+        "a": "Staphylococcus aureus resistente a meticilina (MRSA), ampliamente reconocido por su resistencia.",
+        "b": "Escherichia coli productora de betalactamasas de espectro extendido (ESBL), con creciente prevalencia.",
+        "c": "Enterococcus resistente a vancomicina (VRE), asociado a infecciones nosocomiales complicadas.",
+        "d": "Pseudomonas aeruginosa resistente a carbapenémicos, considerado de alta prioridad por su difícil tratamiento."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes características define mejor a una enfermedad crónica (ENT)?",
+        "respuesta": "c",
+        "a": "Tiene una duración menor a 6 meses y una progresión rápida que requiere intervención inmediata.",
+        "b": "Suele ser causada por una infección aguda sin posibilidad de recurrencia o complicaciones.",
+        "c": "Es de larga duración, con progresión lenta y requiere cambios continuos en el estilo de vida del paciente.",
+        "d": "Se define fácilmente mediante pruebas diagnósticas rápidas y no suele ser invalidante."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes enfermedades no se considera una enfermedad no transmisible (ENT)?",
+        "respuesta": "d",
+        "a": "Diabetes mellitus, caracterizada por alteraciones metabólicas crónicas.",
+        "b": "Enfermedad cardiovascular, que incluye condiciones como hipertensión y cardiopatías.",
+        "c": "Cáncer, que abarca una amplia gama de neoplasias malignas.",
+        "d": "Influenza, una infección viral altamente contagiosa de transmisión respiratoria."
+    },
+    {
+        "pregunta": "¿Cuál es el principal factor de riesgo que difiere entre hombres y mujeres según las enfermedades crónicas?",
+        "respuesta": "a",
+        "a": "Las mujeres presentan mayor prevalencia de artrosis, mientras que en hombres predominan los niveles altos de colesterol.",
+        "b": "Los hombres tienen mayor incidencia de lumbalgia que las mujeres debido a diferencias laborales.",
+        "c": "Las mujeres tienen mayor prevalencia de hipertensión arterial que los hombres en edades tempranas.",
+        "d": "Los hombres presentan mayor prevalencia de diabetes mellitus que las mujeres debido a diferencias hormonales."
+    },
+    {
+        "pregunta": "Según la epidemiología, ¿qué porcentaje aproximado de las muertes generales son atribuibles a las enfermedades no transmisibles (ENT)?",
+        "respuesta": "b",
+        "a": "50%, reflejando un equilibrio entre enfermedades transmisibles y no transmisibles.",
+        "b": "86%, indicando que la mayoría de las muertes se deben a ENT globalmente.",
+        "c": "75%, una cifra que resalta el impacto significativo de las ENT en la mortalidad.",
+        "d": "60%, mostrando una prevalencia considerable pero no mayoritaria de ENT en muertes generales."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas forma parte del plan de acción mundial de la OMS denominado 25x25?",
+        "respuesta": "d",
+        "a": "Incrementar el consumo de sal para mejorar la retención de líquidos en la población.",
+        "b": "Aumentar el uso de tabaco para mejorar la circulación sanguínea en grupos específicos.",
+        "c": "Reducir el acceso a tecnologías y medicamentos para disminuir costos en sistemas de salud.",
+        "d": "Reducir en un 25% la mortalidad prematura por enfermedades no transmisibles para el año 2025."
+    },
+    {
+        "pregunta": "¿Qué componente no forma parte de los factores de riesgo para las enfermedades crónicas según las notas?",
+        "respuesta": "d",
+        "a": "Obesidad excesiva.",
+        "b": "Exposición prolongada a contaminantes industriales.",
+        "c": "Aumento de la esperanza de vida demográfica.",
+        "d": "Consumo regular de vitaminas."
+    },
+    {
+        "pregunta": "¿Qué tipo de prevención se enfoca en la rehabilitación y reinserción de pacientes con enfermedades crónicas?",
+        "respuesta": "c",
+        "a": "Prevención primaria dirigida a la modificación de factores de riesgo.",
+        "b": "Prevención secundaria mediante la detección temprana de enfermedades.",
+        "c": "Prevención terciaria centrada en reducir complicaciones y mejorar la calidad de vida.",
+        "d": "Prevención cuaternaria orientada a evitar intervenciones médicas innecesarias."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal del plan de acción 25x25 de la OMS en relación con las enfermedades no transmisibles?",
+        "respuesta": "a",
+        "a": "Reducir en un 25% la mortalidad prematura por ENT para el año 2025.",
+        "b": "Incrementar el acceso universal a tratamientos para ENT en un 25% para 2025.",
+        "c": "Alcanzar una cobertura de vacunación del 25% para enfermedades no transmisibles en 2025.",
+        "d": "Aumentar en un 25% la investigación y desarrollo de medicamentos para ENT hasta 2025."
+    },
+    {
+        "pregunta": "¿Qué representa el número básico de reproducción (R₀) en epidemiología y qué indica un R₀ mayor a 1?",
+        "respuesta": "c",
+        "a": "El tiempo promedio de incubación de una enfermedad; indica una rápida resolución de brotes.",
+        "b": "La tasa de letalidad de una enfermedad; sugiere una alta mortalidad asociada.",
+        "c": "El número de casos secundarios generados por un infectado en una población susceptible; indica que la enfermedad se está expandiendo.",
+        "d": "El porcentaje de la población que ha desarrollado inmunidad adquirida natural; señala una posible inmunidad colectiva."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe correctamente el concepto de inmunidad colectiva?",
+        "respuesta": "a",
+        "a": "Protección de una población debido a un alto porcentaje de individuos inmunes, reduciendo la propagación de la enfermedad.",
+        "b": "La capacidad de un individuo de resistir una infección específica gracias a una respuesta inmune adaptativa robusta.",
+        "c": "El uso estratégico de vacunas para erradicar una enfermedad a nivel regional.",
+        "d": "La renovación constante de células inmunitarias en respuesta a exposiciones ambientales constantes."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre la erradicación y la eliminación de una enfermedad según los niveles de prevención?",
+        "respuesta": "d",
+        "a": "La erradicación se enfoca en la reducción de la mortalidad, mientras que la eliminación reduce la morbilidad.",
+        "b": "La erradicación implica la disminución de la incidencia, mientras que la eliminación elimina todos los casos.",
+        "c": "La erradicación requiere inmunización masiva, mientras que la eliminación se basa en tratamientos específicos.",
+        "d": "La erradicación implica eliminar una enfermedad a nivel mundial, mientras que la eliminación la restringe a una zona geográfica específica."
+    },
+    {
+        "pregunta": "En el contexto de la cadena epidemiológica, ¿qué elemento se refiere a la capacidad de un microorganismo para causar enfermedad grave y la tasa de letalidad?",
+        "respuesta": "b",
+        "a": "Infectividad.",
+        "b": "Virulencia.",
+        "c": "Transmisibilidad.",
+        "d": "Inmunogenidad."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas corresponde a la profilaxis de disposición activa?",
+        "respuesta": "a",
+        "a": "Administración de vacunas para estimular una respuesta inmune específica y duradera.",
+        "b": "Uso de inmunoglobulinas para proporcionar protección inmediata contra una infección.",
+        "c": "Aplicación de antisépticos en heridas para prevenir infecciones secundarias.",
+        "d": "Implementación de medidas educativas para fomentar hábitos saludables en la población."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe mejor una pandemia?",
+        "respuesta": "c",
+        "a": "Una enfermedad que afecta predominantemente a un grupo etario específico en una región limitada.",
+        "b": "Una enfermedad controlada mediante medidas de salud pública en una comunidad cerrada.",
+        "c": "Una enfermedad con propagación global y transmisión continua entre diferentes continentes.",
+        "d": "Una enfermedad que muestra una tasa de incidencia estable en múltiples países."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes no es un mecanismo de transmisión indirecto de enfermedades transmisibles?",
+        "respuesta": "d",
+        "a": "Aerosoles con partículas menores a 100 μm.",
+        "b": "Agua contaminada por agentes patógenos.",
+        "c": "Objetos inanimados (fómites) contaminados con agentes infecciosos.",
+        "d": "Contacto físico directo entre individuos."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes enfermedades es considerada de declaración urgente y debe notificarse inmediatamente ante un brote?",
+        "respuesta": "c",
+        "a": "Infección por el Virus de Inmunodeficiencia Humana (VIH).",
+        "b": "Fiebre Tifoidea Crónica.",
+        "c": "Difteria.",
+        "d": "Hepatitis B Crónica."
+    },
+    {
+        "pregunta": "¿Qué representa el número básico de reproducción (R₀) en epidemiología y qué indica un R₀ mayor a 1?",
+        "respuesta": "c",
+        "a": "El tiempo promedio de incubación de una enfermedad; indica que la enfermedad está desapareciendo.",
+        "b": "La tasa de letalidad de una enfermedad; indica que la enfermedad se mantiene estable.",
+        "c": "El número de casos secundarios generados por un infectado en una población susceptible; indica que la enfermedad se está expandiendo.",
+        "d": "El porcentaje de la población que es inmune a una enfermedad; indica la existencia de inmunidad colectiva."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe correctamente el concepto de inmunidad colectiva?",
+        "respuesta": "a",
+        "a": "Protección de una población debido a un alto porcentaje de individuos inmunes, reduciendo la propagación de la enfermedad.",
+        "b": "La capacidad de los linfocitos B de producir anticuerpos específicos tras la exposición a un antígeno.",
+        "c": "El desarrollo de memoria inmunológica en individuos expuestos a una vacuna.",
+        "d": "La respuesta inmune inflamada que se genera frente a una infección aguda en la población."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre la erradicación y la eliminación de una enfermedad según los niveles de prevención?",
+        "respuesta": "d",
+        "a": "La erradicación se enfoca en reducir la mortalidad, mientras que la eliminación se centra en disminuir la morbilidad.",
+        "b": "La erradicación requiere inmunización masiva, mientras que la eliminación depende de tratamientos terapéuticos específicos.",
+        "c": "La erradicación se logra mediante intervenciones continuas en el tiempo, mientras que la eliminación es una situación estable.",
+        "d": "La erradicación implica la desaparición total de una enfermedad a nivel mundial, mientras que la eliminación se refiere a su ausencia en una región geográfica específica."
+    },
+    {
+        "pregunta": "En el contexto de la cadena epidemiológica, ¿qué elemento se refiere a la capacidad de un microorganismo para causar enfermedad grave y la tasa de letalidad?",
+        "respuesta": "b",
+        "a": "Infectividad.",
+        "b": "Virulencia.",
+        "c": "Transmisibilidad.",
+        "d": "Pathogenicidad."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas corresponde a la profilaxis de disposición activa?",
+        "respuesta": "a",
+        "a": "Administración de vacunas para estimular una respuesta inmune específica y duradera.",
+        "b": "Uso de inmunoglobulinas monoclonales para proporcionar inmunidad inmediata contra una infección específica.",
+        "c": "Desinfección ambiental mediante la aplicación de agentes antimicrobianos en áreas afectadas.",
+        "d": "Implementación de medidas de distanciamiento social para reducir la transmisión de patógenos."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe mejor una pandemia?",
+        "respuesta": "c",
+        "a": "Una enfermedad que afecta predominantemente a un grupo etario específico en una región delimitada.",
+        "b": "Una enfermedad con alto índice de mortalidad que ha sido controlada mediante medidas sanitarias.",
+        "c": "Una enfermedad con propagación global y transmisión continua entre diferentes continentes.",
+        "d": "Una enfermedad que presenta una tasa de incidencia constante en múltiples regiones sin expansión geográfica."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes no es un mecanismo de transmisión indirecto de enfermedades transmisibles?",
+        "respuesta": "d",
+        "a": "Aerosoles con partículas menores a 100 μm.",
+        "b": "Agua contaminada por agentes patógenos.",
+        "c": "Fómites contaminados con microorganismos infecciosos.",
+        "d": "Contacto físico directo entre individuos."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes enfermedades es considerada de declaración urgente y debe notificarse inmediatamente ante un brote?",
+        "respuesta": "c",
+        "a": "Infección por el Virus de Inmunodeficiencia Humana (VIH).",
+        "b": "Fiebre Tifoidea Crónica.",
+        "c": "Difteria.",
+        "d": "Hepatitis B Crónica."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre una intoxicación alimentaria y una tóxiinfección?",
+        "respuesta": "a",
+        "a": "La intoxicación alimentaria es causada por toxinas preformadas o sustancias tóxicas, mientras que la tóxiinfección requiere la ingestión de bacterias vivas con una dosis infectiva mínima.",
+        "b": "La tóxiinfección se produce por toxinas químicas, mientras que la intoxicación alimentaria es causada por bacterias vivas.",
+        "c": "La intoxicación alimentaria solo ocurre en alimentos de origen animal, mientras que la tóxiinfección también puede ser de origen vegetal.",
+        "d": "La tóxiinfección tiene un periodo de incubación más corto que la intoxicación alimentaria."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes tipos de brote se caracteriza por afectar a múltiples establecimientos fuera del hogar?",
+        "respuesta": "b",
+        "a": "Brote familiar.",
+        "b": "Brote colectivo.",
+        "c": "Brote mixto.",
+        "d": "Brote endémico."
+    },
+    {
+        "pregunta": "Según la clasificación del SCIRI, ¿qué tipo de alerta sanitaria requiere actuaciones de control oficial inmediatas debido a un riesgo grave e inmediato?",
+        "respuesta": "a",
+        "a": "Alerta tipo I.",
+        "b": "Alerta tipo II.",
+        "c": "Alerta tipo III.",
+        "d": "Alerta tipo IV."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas de prevención es más efectiva para evitar las enfermedades transmisibles por alimentos?",
+        "respuesta": "c",
+        "a": "Uso de antibióticos de amplio espectro en la cadena alimentaria.",
+        "b": "Aislamiento de los alimentos envasados en condiciones anaeróbicas.",
+        "c": "Cocinar bien los alimentos y mantener temperaturas seguras durante su almacenamiento.",
+        "d": "Incrementar la ingesta de alimentos crudos para fortalecer el sistema inmunológico."
+    },
+    {
+        "pregunta": "¿Qué microorganismo es responsable de producir una exotoxina que puede ser eliminada mediante calentamiento a más de 90°C durante al menos 10 minutos?",
+        "respuesta": "b",
+        "a": "Staphylococcus aureus.",
+        "b": "Clostridium botulinum.",
+        "c": "Salmonella enteritidis.",
+        "d": "Anisakis."
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio natural de Salmonella enteritidis?",
+        "respuesta": "c",
+        "a": "Suelo y agua contaminados con desechos sanitarios.",
+        "b": "Alimentos procesados infectados durante la manipulación.",
+        "c": "Intestino de animales de granja y humanos portadores asintomáticos.",
+        "d": "Frutas y vegetales que han sido expuestos a fertilizantes orgánicos."
+    },
+    {
+        "pregunta": "¿Qué tipo de transmisión está asociada con la infección por Anisakis?",
+        "respuesta": "d",
+        "a": "Transmisión directa de persona a persona a través de fluidos corporales.",
+        "b": "Transmisión por vectores como garrapatas o pulgas.",
+        "c": "Transmisión por el aire mediante micropartículas aerosoles.",
+        "d": "Transmisión indirecta a través del consumo de pescado crudo o mal cocido infectado con larvas."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes condiciones de incubación es correcta para una tóxiinfección por Staphylococcus aureus?",
+        "respuesta": "b",
+        "a": "12-36 horas, con síntomas gastrointestinales severos.",
+        "b": "0.5-6 horas, caracterizada por vómitos y diarrea intensos.",
+        "c": "6-48 horas, presentando fiebre alta y dolor abdominal.",
+        "d": "Hasta 72 horas, incluyendo síntomas neurológicos."
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio común para las enfermedades de transmisión feco-oral como la fiebre tifoidea, el cólera y la poliomielitis?",
+        "respuesta": "c",
+        "a": "Animales domésticos que viven en estrecho contacto con humanos.",
+        "b": "Agua contaminada con heces humanas o animales infectados.",
+        "c": "Humano, especialmente aquellos que son portadores crónicos asintomáticos.",
+        "d": "Insectos vectores que transportan patógenos feco-orales."
+    },
+    {
+        "pregunta": "¿Cuál es la bacteria causante de la fiebre tifoidea?",
+        "respuesta": "b",
+        "a": "Vibrio cholerae, responsable del cólera.",
+        "b": "Salmonella typhi, agente etiológico de la fiebre tifoidea.",
+        "c": "Poliovirus, causante de la poliomielitis.",
+        "d": "Escherichia coli, asociado con infecciones del tracto urinario y diarrea."
+    },
+    {
+        "pregunta": "En zonas no endémicas, ¿cuál es la principal vía de transmisión de la fiebre tifoidea?",
+        "respuesta": "c",
+        "a": "Transmisión sexual a través de fluidos corporales.",
+        "b": "Contacto directo con secreciones respiratorias de pacientes infectados.",
+        "c": "Consumo de alimentos contaminados con heces de personas infectadas.",
+        "d": "Contacto con animales portadores que excretan Salmonella typhi."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una medida preventiva fundamental para evitar la propagación de enfermedades de transmisión feco-oral?",
+        "respuesta": "c",
+        "a": "Uso de mosquiteras impregnadas con insecticida.",
+        "b": "Vacunación exclusiva contra organismos específicos.",
+        "c": "Implementación de prácticas higiénicas rigurosas en el manejo y preparación de alimentos y agua potable segura.",
+        "d": "Establecimiento de cuarentenas para personas expuestas."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes grupos está especialmente indicado para recibir la vacuna contra la fiebre tifoidea?",
+        "respuesta": "a",
+        "a": "Viajeros que se dirigen a regiones con alta prevalencia de fiebre tifoidea.",
+        "b": "Personas con aclorhidria que tienen una secreción gástrica disminuida.",
+        "c": "Trabajadores de laboratorio que manipulan cepas atenuadas de Salmonella typhi en zonas no endémicas.",
+        "d": "Adultos mayores que residen en áreas desarrolladas con infraestructura sanitaria avanzada."
+    },
+    {
+        "pregunta": "¿Cuál es la bacteria responsable del cólera?",
+        "respuesta": "c",
+        "a": "Escherichia coli, que causa infecciones intestinales y urinarias.",
+        "b": "Salmonella typhi, asociada con la fiebre tifoidea.",
+        "c": "Vibrio cholerae, etiología del cólera.",
+        "d": "Shigella dysenteriae, que causa disentería bacteriana."
+    },
+    {
+        "pregunta": "¿Cuál es una de las características de la poliomielitis que facilita su erradicación?",
+        "respuesta": "a",
+        "a": "Afecta exclusivamente a humanos, sin reservorios animales, lo que facilita la interrupción de la cadena de transmisión.",
+        "b": "Tiene múltiples reservorios animales que complican el control de la enfermedad.",
+        "c": "Existe portadores crónicos que continúan propagando el virus incluso después de recuperarse.",
+        "d": "El poliovirus sobrevive durante largos periodos en el medio ambiente, dificultando su eliminación."
+    },
+    {
+        "pregunta": "¿Qué tipo de vacuna contra la poliomielitis proporciona inmunidad para toda la vida?",
+        "respuesta": "b",
+        "a": "Virus vivo atenuado (VPO), que requiere dosis de refuerzo periódicas.",
+        "b": "Virus inactivado (VPI), que induce una respuesta inmune robusta y duradera con dosis completas iniciales.",
+        "c": "Antígeno polisacárido, que ofrece protección parcial y de corta duración.",
+        "d": "Subunidad B recombinante, utilizada principalmente en vacunas conjugadas."
+    },
+    {
+        "pregunta": "¿Cuál es una indicación para la vacunación contra el cólera?",
+        "respuesta": "b",
+        "a": "Personas con aclorhidria que tienen ácido gástrico reducido.",
+        "b": "Trabajadores de ayuda humanitaria que operan en zonas con brotes activos de cólera.",
+        "c": "Niños que viven en zonas no endémicas con baja exposición al patógeno.",
+        "d": "Adultos mayores que residen en áreas desarrolladas con buenas prácticas de saneamiento."
+    },
+    {
+        "pregunta": "Sobre la serología de la hepatitis B, ¿qué combinación de anticuerpos indica una infección pasada resuelta?",
+        "respuesta": "c",
+        "a": "Anti-HBs+ solamente, que indica inmunidad por vacunación.",
+        "b": "Anti-HBc IgM+, que sugiere una infección aguda reciente.",
+        "c": "Anti-HBc IgG+ y Anti-HBs+, que señalan una infección pasada resuelta con desarrollo de inmunidad.",
+        "d": "Ag-HBs+ y Anti-HBs+, una combinación no típica que podría indicar una infección crónica."
+    },
+    {
+        "pregunta": "¿Cuál es la evolución crónica más probable en la infección por hepatitis B?",
+        "respuesta": "c",
+        "a": "El 90% de los adultos desarrollan una infección persistente con progresión a cirrosis.",
+        "b": "El 5% de los adultos desarrollan fibrosis hepática avanzada.",
+        "c": "El 90% de los niños desarrollan cronificación, con riesgo elevado de hepatocarcinoma.",
+        "d": "El 5% de los niños desarrollan enfermedad hepática crónica con autoinmunidad."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones es una vía de transmisión de la hepatitis C más común?",
+        "respuesta": "c",
+        "a": "Transmisión vertical a través de placenta en infecciones crónicas.",
+        "b": "Transmisión feco-oral en entornos de mala higiene.",
+        "c": "Uso de agujas contaminadas durante procedimientos médicos o consumo de drogas intravenosas.",
+        "d": "Consumo de carne mal cocinada contaminada con el virus."
+    },
+    {
+        "pregunta": "En la prevención de la hepatitis C, ¿cuál de las siguientes medidas es fundamental?",
+        "respuesta": "c",
+        "a": "Vacunación rutinaria en todos los recién nacidos.",
+        "b": "Uso de mosquiteras impregnadas de insecticida en áreas endémicas.",
+        "c": "Diagnóstico temprano mediante pruebas serológicas y tratamiento antiviral directo para reducir la carga viral.",
+        "d": "Vacunación post-exposición en contactos cercanos de pacientes infectados."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia en la cadena epidemiológica de la hepatitis A en países con alta prevalencia respecto a países con baja prevalencia?",
+        "respuesta": "c",
+        "a": "En alta prevalencia, el virus se transmite principalmente a través de contacto sexual; en baja, por consumo de agua contaminada.",
+        "b": "En alta prevalencia, existe una transmisión zoonótica significativa; en baja, la transmisión es exclusivamente humana.",
+        "c": "En alta prevalencia, la mayoría de las infecciones se adquieren en la infancia con inmunidad adquirida temprana; en baja prevalencia, la infección ocurre principalmente en adultos con mayor gravedad clínica.",
+        "d": "No hay diferencias significativas en la cadena epidemiológica de la hepatitis A según la prevalencia."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes afirmaciones sobre la hepatitis D es correcta?",
+        "respuesta": "b",
+        "a": "Puede infectarse de manera independiente, sin necesidad de hepatitis B para su replicación.",
+        "b": "Sólo ocurre como coinfección o superinfección con hepatitis B, ya que requiere el antígeno de superficie de HBV para ensamblar su partícula viral.",
+        "c": "Tiene una cadena epidemiológica similar a la hepatitis C, principalmente mediante uso de agujas contaminadas.",
+        "d": "Existen vacunas específicas para la hepatitis D además de la vacuna contra la hepatitis B."
+    },
+    {
+        "pregunta": "¿Qué tipo de vacuna contra la hepatitis B se administra por vía intramuscular o subcutánea y requiere refuerzos cada 3 años?",
+        "respuesta": "c",
+        "a": "Vacuna de virus vivo atenuado.",
+        "b": "Vacuna de antígeno polisacárido.",
+        "c": "Vacuna recombinante basada en ADN del gen H del HBV, que induce una inmunidad prolongada con esquemas de refuerzo en adultos.",
+        "d": "Vacuna inactivada con viriones completos del virus."
+    },
+    {
+        "pregunta": "Sobre la hepatitis E, ¿cuál de sus genotipos se encuentra predominantemente en Europa y países desarrollados y se transmite principalmente por carne mal cocinada?",
+        "respuesta": "c",
+        "a": "Genotipo 1, común en brotes masivos en áreas con saneamiento deficiente.",
+        "b": "Genotipo 2, limitado a regímenes específicos de transmisión en África.",
+        "c": "Genotipo 3, asociado con transmisión zoonótica a través de cerdo y consumo de carne de cerdo cruda o mal cocida en países desarrollados.",
+        "d": "Genotipo 4, prevalente en regiones de Asia Oriental y transmitido principalmente por consumo de mariscos crudos."
+    },
+    {
+        "pregunta": "¿Cuál es la indicación principal para la administración de la vacuna contra la hepatitis A en países con prevalencia baja?",
+        "respuesta": "c",
+        "a": "Protección exclusiva para niños menores de 5 años en todas las áreas geográficas.",
+        "b": "Recomendación únicamente para personal de laboratorios que manipulan el virus.",
+        "c": "Prevención en viajeros que se dirigen a países de moderada a alta prevalencia y en poblaciones de riesgo que puedan exponerse a brotes.",
+        "d": "No es necesaria debido a la alta inmunidad natural en la población general."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes tipos de virus de la gripe tiene mayor capacidad de variación de los antígenos de superficie H y N?",
+        "respuesta": "a",
+        "a": "Tipo A, que presenta una alta variabilidad y es responsable de pandemias.",
+        "b": "Tipo B, con menor variabilidad y limitado a ciertas regiones.",
+        "c": "Tipo C, que causa infecciones respiratorias leves y tiene baja variabilidad antigénica.",
+        "d": "Tipo D, principalmente enfocado en ganado, con mínima relevancia en humanos."
+    },
+    {
+        "pregunta": "¿Qué tipo de cambio antigénico en el virus de la gripe puede llevar a la aparición de una nueva especie y potencial pandemia?",
+        "respuesta": "b",
+        "a": "Deriva antigénica, que causa cambios menores y frecuentes en los antígenos de superficie.",
+        "b": "Cambio antigénico mayor (shift antigénico), que implica una reordenación completa de los antígenos H y N a través de recombinación genética entre cepas diferentes.",
+        "c": "Recombinación genética, que aunque puede contribuir, no necesariamente conduce a un cambio antigénico significativo.",
+        "d": "Mutación silenciosa, que no afecta las propiedades antigénicas del virus."
+    },
+    {
+        "pregunta": "¿Cuál es la medida preventiva más efectiva contra la gripe?",
+        "respuesta": "c",
+        "a": "Uso de mascarillas de alta filtración en todas las situaciones sociales.",
+        "b": "Quimioprofilaxis con oseltamivir en la población general cada temporada.",
+        "c": "Vacunación anual con la vacuna antigripal para estimular la inmunidad de rebaño.",
+        "d": "Aislamiento de todos los individuos infectados hasta la completa recuperación."
+    },
+    {
+        "pregunta": "¿En qué periodo de tiempo una persona adulta es contagiosa por el virus de la gripe?",
+        "respuesta": "b",
+        "a": "Solo después de la aparición de síntomas, limitando la transmisión a etapas avanzadas de la infección.",
+        "b": "Desde un día antes de la aparición de los síntomas hasta 4-5 días después, incluyendo el periodo asintomático.",
+        "c": "Desde dos semanas antes de los síntomas hasta la completa recuperación, lo que abarca un amplio periodo de contagio.",
+        "d": "Durante todo el periodo de incubación, sin influencia significativa de la aparición de síntomas."
+    },
+    {
+        "pregunta": "¿Cuál es la indicación principal para el uso de la quimioprofilaxis con oseltamivir en el contexto de la gripe?",
+        "respuesta": "d",
+        "a": "Administración sistemática a todos los trabajadores de la salud durante la temporada gripal.",
+        "b": "Uso exclusivo en niños menores de 5 años, quienes son más susceptibles a complicaciones.",
+        "c": "Prescripción a personas con infección crónica por virus de la gripe que ya han desarrollado inmunidad.",
+        "d": "Tratamiento preventivo en pacientes de alto riesgo, como inmunodeprimidos o ancianos, que no han sido vacunados o han sido vacunados recientemente pero están expuestos a brotes activos."
+    },
+    {
+        "pregunta": "¿Qué tipo de vacuna neumocócica se puede administrar en niños menores de 2 años y está incluida en el calendario infantil?",
+        "respuesta": "a",
+        "a": "Vacuna conjugada multivalente (como PCV13), que induce una respuesta inmune más robusta en niños pequeños mediante la conjugación con proteínas portadoras.",
+        "b": "Vacuna polisacárida plana, que no es efectiva en niños menores de 2 años.",
+        "c": "Vacuna recombinante basada en proteínas capsulares, utilizada principalmente en adultos mayores.",
+        "d": "Vacuna de virus atenuado, que no es una estrategia utilizada para la inmunización contra Streptococcus pneumoniae."
+    },
+    {
+        "pregunta": "¿Cuál es una de las principales diferencias entre las vacunas neumocócicas conjugadas y las polisacáridas?",
+        "respuesta": "d",
+        "a": "Las vacunas conjugadas inducen una respuesta inmune mediada por células T, mientras que las polisacáridas no",
+        "b": "Las polisacáridas tienen una mayor eficacia en la prevención de la colonización nasofaríngea",
+        "c": "Las vacunas conjugadas requieren refuerzos más frecuentes que las polisacáridas",
+        "d": "Las polisacáridas no se pueden administrar en menores de 2 años"
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de cobertura de vacunación contra la gripe en personas mayores de 65 años y personal sanitario?",
+        "respuesta": "c",
+        "a": "68%",
+        "b": "72%",
+        "c": "75%",
+        "d": "78%"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes grupos está incluido en las indicaciones para la vacunación antigripal?",
+        "respuesta": "b",
+        "a": "Personas con hipertensión bien controlada",
+        "b": "Embarazadas",
+        "c": "Adolescentes sin comorbilidades",
+        "d": "Individuos que han recibido tratamiento inmunosupresor hace cinco años"
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio principal de Mycobacterium tuberculosis?",
+        "respuesta": "c",
+        "a": "Ganado bovino en regiones endémicas",
+        "b": "Insectos vectores en ambientes urbanos",
+        "c": "Humano infectado",
+        "d": "Aves migratorias en zonas tropicales"
+    },
+    {
+        "pregunta": "¿Qué característica microbiológica distingue a Mycobacterium tuberculosis?",
+        "respuesta": "a",
+        "a": "BAAR (bacilos ácido-alcohol resistentes)",
+        "b": "Forma de bacilo gram positivo",
+        "c": "Bacilo anaerobio estricto",
+        "d": "Presencia de cápsula lipídica similar a los virus"
+    },
+    {
+        "pregunta": "¿Cuál es el periodo de incubación típico para la tuberculosis?",
+        "respuesta": "b",
+        "a": "1-3 días",
+        "b": "2-12 semanas",
+        "c": "3-6 meses",
+        "d": "1-2 años"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes personas debe ser considerada dentro del primer círculo de contactos para el estudio de tuberculosis?",
+        "respuesta": "a",
+        "a": "Pareja que convive diariamente con el paciente durante más de 6 horas",
+        "b": "Colega de trabajo que comparte espacio durante 30 minutos semanales",
+        "c": "Profesor que imparte clases teóricas al paciente",
+        "d": "Compañero de viaje que estuvo en el mismo avión por 2 horas"
+    },
+    {
+        "pregunta": "¿Qué prueba se recomienda realizar cuando el resultado del Mantoux es inconcluso debido a factores como la vacunación previa?",
+        "respuesta": "b",
+        "a": "Radiografía de tórax de alta resolución",
+        "b": "IGRA (Interferon-Gamma Release Assays)",
+        "c": "Tomografía por emisión de positrones (PET)",
+        "d": "Ecografía de ganglios linfáticos"
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento estándar inicial para una infección activa de tuberculosis pulmonar?",
+        "respuesta": "d",
+        "a": "Isoniacida y etambutol durante 6 meses",
+        "b": "Rifampicina, isoniacida y pirazinamida durante 2 meses",
+        "c": "Pirazinamida y etambutol durante 4 meses",
+        "d": "Isoniacida, rifampicina, pirazinamida y etambutol durante 2 meses, seguido de isoniacida y rifampicina por 4 meses"
+    },
+    {
+        "pregunta": "¿En qué grupo etario se observa mayor incidencia de tuberculosis actualmente?",
+        "respuesta": "d",
+        "a": "Niños de 5-10 años en áreas urbanas",
+        "b": "Adultos jóvenes de 20-30 años en ambientes laborales",
+        "c": "Adolescentes de 15-20 años con inmunodeficiencia",
+        "d": "Mayores de 74 años"
+    },
+    {
+        "pregunta": "¿Qué medida de precaución es esencial en el entorno hospitalario para pacientes con tuberculosis contagiosa?",
+        "respuesta": "a",
+        "a": "Uso de mascarillas FFP2 y habitaciones con presión negativa",
+        "b": "Aislamiento de contacto mediante batas impermeables",
+        "c": "Implementación de barreras de aire mediante sistemas HEPA",
+        "d": "Restricción de movilización del paciente fuera de su habitación"
+    },
+    {
+        "pregunta": "¿Por qué no se recomienda la vacunación sistemática contra la tuberculosis en España?",
+        "respuesta": "b",
+        "a": "La vacuna disponible no es efectiva en la población adulta",
+        "b": "No previene el contagio, solo las formas graves de la enfermedad",
+        "c": "Existe una alta prevalencia de cepas resistentes a la vacuna",
+        "d": "Las estrategias de vacunación están enfocadas en otros patógenos emergentes"
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio principal de Legionella pneumophila serogroup 1?",
+        "respuesta": "b",
+        "a": "Suelo en ambientes agrícolas",
+        "b": "Medios acuáticos estancados como torres de refrigeración",
+        "c": "Reservorios sintéticos en plantas de tratamiento de aguas residuales",
+        "d": "Animales domésticos, especialmente gatos y perros"
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de transmisión de la bacteria Legionella?",
+        "respuesta": "a",
+        "a": "Inhalación de aerosoles provenientes de sistemas de agua contaminada",
+        "b": "Contacto cercano y prolongado con personas infectadas",
+        "c": "Ingestión de alimentos contaminados con la bacteria",
+        "d": "Transmisión a través de vectores como mosquitos"
+    },
+    {
+        "pregunta": "¿En qué estaciones del año es más común la incidencia de legionelosis?",
+        "respuesta": "c",
+        "a": "Verano y otoño",
+        "b": "Invierno y verano",
+        "c": "Primavera y otoño",
+        "d": "Verano e invierno"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes factores de riesgo está asociado con una mayor susceptibilidad a la infección por Legionella?",
+        "respuesta": "d",
+        "a": "Atletas jóvenes y físicamente activos",
+        "b": "Personas con alergias al moho",
+        "c": "Individuos con sobrepeso y obesidad",
+        "d": "Fumadores y pacientes con enfermedades respiratorias crónicas como EPOC o fibrosis quística"
+    },
+    {
+        "pregunta": "¿Qué medida preventiva es esencial para controlar la proliferación de Legionella en instalaciones acuáticas?",
+        "respuesta": "a",
+        "a": "Implementar programas de mantenimiento y desinfección regular de sistemas de agua, incluyendo torres de refrigeración, al menos dos veces al año",
+        "b": "Aumentar la temperatura del agua por encima de 60°C de manera continua",
+        "c": "Instalar sistemas de filtración HEPA en todas las áreas de la instalación",
+        "d": "Reducir el uso de agua caliente en las duchas y baños"
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio natural de Aspergillus?",
+        "respuesta": "c",
+        "a": "Ambientes acuáticos con alta salinidad",
+        "b": "Superficies metálicas en entornos urbanos",
+        "c": "Suelo rico en materia orgánica",
+        "d": "Animales domésticos como gatos y perros"
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de transmisión de Aspergillus en entornos hospitalarios?",
+        "respuesta": "b",
+        "a": "Contacto directo con pacientes inmunocomprometidos",
+        "b": "Inhalación de esporas fúngicas presentes en el aire",
+        "c": "Transmisión a través de vectores como hormigas",
+        "d": "Consumo de alimentos contaminados con esporas de Aspergillus"
+    },
+    {
+        "pregunta": "¿Qué estándar de contaminación fúngica se considera aceptable en entornos hospitalarios?",
+        "respuesta": "a",
+        "a": "0 unidades de Aspergillus, zigomicetos, Fusarium y Scedosporium por metro cúbico de aire",
+        "b": "Máximo 5 unidades de Aspergillus por metro cúbico en áreas de inmunosupresión",
+        "c": "No más de 10 zigomicetos por litro de aire en salas de cuidados intensivos",
+        "d": "Presencia permitida de Fusarium en áreas quirúrgicas con equipos de esterilización"
+    },
+    {
+        "pregunta": "¿Qué acciones se deben tomar si se detecta contaminación fúngica en una zona de alto riesgo en un hospital?",
+        "respuesta": "d",
+        "a": "Aumentar la ventilación natural del área afectada y monitorizar continuamente",
+        "b": "Notificar únicamente al personal de limpieza y esperar resultados adicionales",
+        "c": "Continuar con las actividades habituales mientras se realiza un monitoreo pasivo",
+        "d": "Detener inmediatamente el funcionamiento del área afectada, informar a la dirección, realizar una descontaminación exhaustiva y repetir las pruebas de control en un plazo de 5 días"
+    },
+    {
+        "pregunta": "¿Cómo se clasifica el meningococo?",
+        "respuesta": "b",
+        "a": "Según su capacidad de motilidad y flagelos",
+        "b": "Según polisacáridos capsulares, proteínas de membrana, lipopolisacáridos de membrana externa y pilis",
+        "c": "Según su resistencia intrínseca a múltiples antibióticos",
+        "d": "Según su forma, tamaño y patrones de crecimiento en agar"
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio principal del meningococo y cuál es el grupo de edad más prevalente?",
+        "respuesta": "c",
+        "a": "Reservorio: animales domésticos; Grupo: niños menores de 5 años",
+        "b": "Reservorio: agua contaminada; Grupo: adultos mayores",
+        "c": "Reservorio: humano (nasofaringe); Grupo: adolescentes y adultos jóvenes entre 15 y 24 años",
+        "d": "Reservorio: suelo; Grupo: recién nacidos y lactantes"
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de transmisión del meningococo?",
+        "respuesta": "d",
+        "a": "A través de vectores como mosquitos y pulgas",
+        "b": "Transmisión indirecta mediante objetos contaminados en superficies frecuentes",
+        "c": "Transmisión aérea por partículas en suspensión de gran tamaño",
+        "d": "Transmisión directa de persona a persona mediante contacto estrecho y respiratorio"
+    },
+    {
+        "pregunta": "¿En qué período del año se observa mayor estacionalidad de los casos de meningococemia, y cuáles son las regiones geográficas predominantes de los serogrupos A, B y C respectivamente?",
+        "respuesta": "b",
+        "a": "Verano; A en Europa, B en Asia, C en Oceanía",
+        "b": "Final de invierno y principios de primavera; Serogrupo A en el cinturón del Mediterráneo y África Subsahariana, Serogrupo B en Europa, América del Norte y Australia, Serogrupo C en América del Sur",
+        "c": "Otoño; Serogrupo A en América del Sur, B en África, C en Europa",
+        "d": "Primavera; Serogrupo A en Norteamérica, B en Brasil, C en Australia"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes vacunas contra meningococo está conjugada con CRM197 y protege contra el serogrupo C?",
+        "respuesta": "c",
+        "a": "NeisVac-C.",
+        "b": "MenACWY-TT (Menveo).",
+        "c": "MenC.",
+        "d": "MenACWY-D (LP2086)."
+    },
+    {
+        "pregunta": "¿Cuál es la pauta clásica de vacunación contra meningococo en niños según las notas?",
+        "respuesta": "b",
+        "a": "2 meses - 4 meses - 6 meses con vacuna MenB.",
+        "b": "4 meses - 12 meses - 12 años con vacuna ACWY.",
+        "c": "1 mes - 6 meses - 18 años con vacuna MenA.",
+        "d": "3 meses - 9 meses - 15 años con vacuna MenC."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes medicamentos no es recomendado para la quimioprofilaxis de contactos íntimos de un caso de meningococemia?",
+        "respuesta": "d",
+        "a": "Rifampicina vía oral.",
+        "b": "Ciprofloxacino vía oral.",
+        "c": "Ceftriaxona vía intramuscular.",
+        "d": "Amoxicilina vía oral."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes características describe mejor a la bacteria causante del tétanos?",
+        "respuesta": "a",
+        "a": "Anaerobia, Gram positiva, formadora de esporas.",
+        "b": "Aerobia, Gram negativa, forma bacilos.",
+        "c": "Anaerobia, Gram negativa, forma cocos.",
+        "d": "Aerobia, Gram positiva, forma espiroquetas."
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio principal del Clostridium tetani, la bacteria causante del tétanos?",
+        "respuesta": "b",
+        "a": "Animales domésticos y sus secreciones.",
+        "b": "Suelo, material vegetal en descomposición e intestino de animales y humanos.",
+        "c": "Agua estancada y fuentes naturales de agua dulce.",
+        "d": "Alimentos en mal estado y superficies contaminadas."
+    },
+    {
+        "pregunta": "¿Cuál es el periodo de incubación típico para el tétanos?",
+        "respuesta": "d",
+        "a": "24 horas a 3 días.",
+        "b": "3 a 10 días.",
+        "c": "10 a 21 días.",
+        "d": "7 a 14 días."
+    },
+    {
+        "pregunta": "¿Cuál es la pauta de vacunación clásica contra el tétanos en niños según las notas?",
+        "respuesta": "c",
+        "a": "1 mes - 6 meses - 12 meses con vacuna antitetánica sola.",
+        "b": "2 meses - 4 meses - 6 meses con vacuna antitetánica sola.",
+        "c": "0 meses - 2 meses - 6/12 meses con vacuna TD (tétanos-difteria).",
+        "d": "3 meses - 9 meses - 15 meses con vacuna TD (tétanos-difteria)."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones es una indicación para administrar inmunoglobulina tetánica (IgT) en profilaxis postexposición?",
+        "respuesta": "a",
+        "a": "Sujeto con menos de 3 dosis de vacuna antitetánica y herida de alto riesgo.",
+        "b": "Sujeto completamente vacunado sin evidencia de herida.",
+        "c": "Sujeto con 3 dosis de vacuna y herida limpia.",
+        "d": "Sujeto con 4 dosis de vacuna y sin herida."
+    },
+    {
+        "pregunta": "¿Cuál es la principal vía de transmisión de la difteria?",
+        "respuesta": "b",
+        "a": "Transmisión directa por contacto con secreciones de heridas infectadas.",
+        "b": "Transmisión respiratoria y por fómites contaminados.",
+        "c": "Transmisión fecal-oral a través de agua contaminada.",
+        "d": "Transmisión vectorial a través de mosquitos y otros insectos."
+    },
+    {
+        "pregunta": "¿Qué característica diferencia a la tos ferina de otras enfermedades respiratorias según las notas?",
+        "respuesta": "d",
+        "a": "Periodo de incubación de menos de 3 días.",
+        "b": "Reservorio animal predominante en casas de granja.",
+        "c": "Transmisión exclusivamente por vectores artrópodos.",
+        "d": "Patogénesis de brotes epidémicos cíclicos cada 3-5 años y aumento de incidencia en menores de 5 años y adultos mayores."
+    },
+    {
+        "pregunta": "¿Cuál es la pauta de vacunación recomendada para el sarampión, parotiditis y rubéola (triple vírica) en niños?",
+        "respuesta": "a",
+        "a": "2 dosis: entre 12-15 meses y a los 4-6 años.",
+        "b": "3 dosis: nacimiento, 6 meses y 12 meses.",
+        "c": "1 dosis única a los 2 años.",
+        "d": "4 dosis: 6 meses, 1 año, 3 años y 5 años."
+    },
+    {
+        "pregunta": "¿Cuál es el tratamiento de quimioprofilaxis recomendado para contactos estrechos de un caso de tos ferina?",
+        "respuesta": "b",
+        "a": "Cotrimoxazol durante 14 días.",
+        "b": "Azitromicina durante 5 días.",
+        "c": "Claritromicina durante 7 días.",
+        "d": "Eritromicina durante 10 días."
+    },
+    {
+        "pregunta": "¿Cuál es la especie de Brucella más frecuente en España y en qué animales se encuentra principalmente?",
+        "respuesta": "a",
+        "a": "Brucella melitensis en cabras y ovejas.",
+        "b": "Brucella abortus en vacas y cabras.",
+        "c": "Brucella suis en cerdos y jabalíes.",
+        "d": "Brucella canis en perros y gatos."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe correctamente la cadena epidemiológica de la brucelosis?",
+        "respuesta": "c",
+        "a": "Reservorio: aves domésticas; Transmisión: picaduras de mosquitos.",
+        "b": "Reservorio: aguas superficiales contaminadas; Transmisión: ingestión de agua no tratada.",
+        "c": "Reservorio: ganado ovino y caprino; Transmisión: contacto cutáneo-mucoso, inhalación o ingestión de lácteos no pasteurizados.",
+        "d": "Reservorio: suelos agrícolas; Transmisión: consumo de vegetales contaminados."
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio principal del virus de la rabia?",
+        "respuesta": "b",
+        "a": "Ratas y murciélagos nocturnos.",
+        "b": "Perros, zorros, murciélagos y gatos.",
+        "c": "Cabras y ovejas infectadas.",
+        "d": "Mamíferos salvajes como mapaches y comadrejas."
+    },
+    {
+        "pregunta": "¿Cuál es la profilaxis preexposición recomendada para personas con alto riesgo de exposición a la rabia?",
+        "respuesta": "d",
+        "a": "Tres dosis de vacuna IM en días 0, 7 y 21.",
+        "b": "Dos dosis de vacuna IM en días 0 y 28.",
+        "c": "Una dosis de vacuna ID y una dosis IM en día 0.",
+        "d": "Dos o tres dosis de vacuna IM en días 0 y 7, con una dosis de refuerzo entre 21 y 28 días."
+    },
+    {
+        "pregunta": "¿Cuál es la principal medida de prevención para evitar la transmisión de la brucelosis en humanos?",
+        "respuesta": "a",
+        "a": "Vacunación de los animales de granja y control sanitario.",
+        "b": "Uso de equipo de protección personal al manipular animales.",
+        "c": "Consumo de productos lácteos pasteurizados.",
+        "d": "Aislamiento y tratamiento inmediato de los pacientes infectados."
+    },
+    {
+        "pregunta": "¿Qué acciones deben realizarse siempre tras una exposición potencial al virus de la rabia?",
+        "respuesta": "c",
+        "a": "Aplicar profilaxis antibiótica y iniciar terapia antiviral.",
+        "b": "Administrar inmunoglobulina antirrábica y observar al animal.",
+        "c": "Lavar la herida con agua y jabón, no suturarla y administrar la vacuna antirrábica.",
+        "d": "Iniciar observación del animal durante 10 días sin intervención adicional."
+    },
+    {
+        "pregunta": "¿En qué regiones del mundo la rabia presenta mayor riesgo de transmisión a humanos?",
+        "respuesta": "b",
+        "a": "Europa Occidental y América del Norte.",
+        "b": "África Subsahariana y Sudeste Asiático, especialmente en países con control veterinario limitado.",
+        "c": "Europa del Este y Medio Oriente.",
+        "d": "Regiones árticas y subárticas con baja densidad de población animal."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes medidas de protección personal es fundamental para profesionales expuestos a zoonosis como la rabia y la brucelosis?",
+        "respuesta": "d",
+        "a": "Uso de guantes y desinfectantes de manos.",
+        "b": "Uso de mascarillas quirúrgicas y batas impermeables.",
+        "c": "Uso de ropa desechable y guantes de un solo uso.",
+        "d": "Uso de gafas de protección, guantes resistentes, bata estéril y mascarillas adecuadas según el riesgo."
+    },
+    {
+        "pregunta": "¿Cuáles serotipos del VPH están asociados con un mayor riesgo de cáncer relacionado?",
+        "respuesta": "b",
+        "a": "Serotipos 6 y 11, asociados con verrugas genitales.",
+        "b": "Serotipos 16, 18, 31, 33, 45, 52 y 58, asociados con cáncer cervical y otros cánceres anogenitales.",
+        "c": "Serotipos 1 y 2, relacionados con cáncer de piel.",
+        "d": "Serotipos 5 y 7, observados en casos raros de cáncer anogenital."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes vacunas protege contra los serotipos 6, 11, 16 y 18 del VPH?",
+        "respuesta": "b",
+        "a": "Cervarix, que protege contra serotipos 16 y 18.",
+        "b": "Gardasil 4, que protege contra serotipos 6, 11, 16 y 18.",
+        "c": "Gardasil 9, que protege contra nueve serotipos del VPH.",
+        "d": "Ninguna de las anteriores; se requiere una combinación de vacunas."
+    },
+    {
+        "pregunta": "Entre las ETS más frecuentes curables, ¿cuál es la que presenta el mayor aumento de incidencia en los últimos años?",
+        "respuesta": "c",
+        "a": "Sífilis, debido a la reducción en el uso de condones.",
+        "b": "Gonorrea, por el aumento de cepas resistentes a antibióticos.",
+        "c": "Clamidia, por el incremento en las tasas de detección y reportes.",
+        "d": "Tricomoniasis, debido a la falta de programas de prevención efectivos."
+    },
+    {
+        "pregunta": "¿Cuál grupo de población presenta mayor prevalencia de gonorrea según las notas?",
+        "respuesta": "b",
+        "a": "Mujeres jóvenes bajo 25 años, heterosexuales.",
+        "b": "Hombres entre 20-24 años HSH (hombres que tienen sexo con hombres).",
+        "c": "Hombres mayores de 50 años con comorbilidades.",
+        "d": "Mujeres entre 30-35 años con múltiples parejas sexuales."
+    },
+    {
+        "pregunta": "¿Cuál es el serotipo de VPH asociado con la formación de verrugas genitales?",
+        "respuesta": "a",
+        "a": "Serotipos 6 y 11.",
+        "b": "Serotipos 16 y 18, que están altamente asociados con cáncer cervical.",
+        "c": "Serotipos 31 y 33, relacionados con cáncer orofaríngeo.",
+        "d": "Serotipos 45 y 58, implicados en cáncer anal."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes ETS es la más frecuente en mujeres menores de 25 años y está asociada a una fuerte incidencia en este grupo?",
+        "respuesta": "c",
+        "a": "Sífilis, debido a la falta de uso de protección.",
+        "b": "Gonorrea, por el aumento de cepas resistentes.",
+        "c": "Clamidia, por su alta tasa de asintomaticidad y detección frecuente.",
+        "d": "Linfogranuloma venéreo, por su reaparición en poblaciones específicas."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes afirmaciones es correcta respecto al linfogranuloma venéreo?",
+        "respuesta": "c",
+        "a": "Es una de las ETS más frecuentes en la población general.",
+        "b": "Se encuentra principalmente en mujeres jóvenes debido a su alta tasa de infecciones asintomáticas.",
+        "c": "Es más común en hombres mayores de 25 años, especialmente aquellos que tienen VIH positivo.",
+        "d": "Está ampliamente notificada en todas las comunidades autónomas de España debido a su alta prevalencia."
+    },
+    {
+        "pregunta": "¿Cuál es el reservorio natural del VIH?",
+        "respuesta": "b",
+        "a": "Primates no humanos, específicamente los simios.",
+        "b": "Humanos, siendo el único hospedador natural del VIH-1 y VIH-2.",
+        "c": "Animales domésticos como perros y gatos que pueden portar el virus sin síntomas.",
+        "d": "Aves migratorias que facilitan la dispersión del virus a nivel global."
+    },
+    {
+        "pregunta": "¿Cuáles son los fluidos corporales con riesgo de transmisión del VIH?",
+        "respuesta": "c",
+        "a": "Saliva y lágrimas, aunque con muy bajo riesgo de transmisión.",
+        "b": "Sudor y orina, que generalmente no contienen cargas virales significativas.",
+        "c": "Sangre, semen y fluido vaginal, que contienen altas concentraciones del virus.",
+        "d": "Heces y lágrimas, que no son vías comunes de transmisión."
+    },
+    {
+        "pregunta": "¿Cuál es uno de los objetivos estratégicos de la OMS para el control del VIH para el año 2030?",
+        "respuesta": "c",
+        "a": "Erradicar completamente el VIH, similar a la erradicación de la viruela.",
+        "b": "Alcanzar una cobertura de vacunación del 95% en todas las poblaciones vulnerables.",
+        "c": "Lograr que el 95% de las personas con VIH estén diagnosticadas, reciban tratamiento antirretroviral y tengan carga viral indetectable.",
+        "d": "Reducir las nuevas infecciones por VIH en un 50% mediante campañas de concienciación."
+    },
+    {
+        "pregunta": "¿Cuál es la medida recomendada para prevenir la transmisión vertical del VIH?",
+        "respuesta": "b",
+        "a": "Administrar antibióticos al recién nacido para prevenir infecciones secundarias.",
+        "b": "Realizar cesárea en semana 38 si la madre tiene alta carga viral para reducir el riesgo de transmisión perinatal.",
+        "c": "Aumentar la lactancia materna para fortalecer el sistema inmunológico del bebé.",
+        "d": "No es posible prevenir la transmisión vertical del VIH, por lo que se requiere monitoreo continuo."
+    },
+    {
+        "pregunta": "¿Cuál es el manejo post-exposición recomendado para una exposición accidental al VIH?",
+        "respuesta": "c",
+        "a": "Uso inmediato de antibióticos durante 2 semanas para prevenir infecciones bacterianas secundarias.",
+        "b": "Aplicar lejía para desinfectar la herida y evitar la entrada del virus.",
+        "c": "Administrar un régimen antirretroviral como BIKTARVY (bictegravir + emtricitabina + tenofovir) dentro de las 48-72 horas posteriores a la exposición y continuar durante 4 semanas.",
+        "d": "Solo realizar seguimiento serológico sin necesidad de tratamiento profiláctico."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes estrategias es utilizada para prevenir la infección por VIH en personas con alto riesgo?",
+        "respuesta": "b",
+        "a": "Vacunación anual con una vacuna específica contra el VIH.",
+        "b": "Uso de TRUVADA (emtricitabina/tenofovir) como profilaxis pre-exposición (PrEP) para personas con alto riesgo de exposición.",
+        "c": "Administración de vacunas combinadas Johnson & Johnson para fortalecer el sistema inmunológico.",
+        "d": "Vacunación con Gardasil para proteger contra los distintos serotipos del VIH."
+    },
+    {
+        "pregunta": "¿Quiénes son considerados como sujetos susceptibles al VIH según la cadena epidemiológica?",
+        "respuesta": "c",
+        "a": "Mujeres embarazadas solamente, debido a la transmisión vertical.",
+        "b": "Personas que consumen alcohol, ya que afecta el sistema inmunológico.",
+        "c": "Pareja sexual o hijo del infectado, politransfundidos, y profesionales sanitarios expuestos al virus.",
+        "d": "Niños menores de 5 años, ya que son más vulnerables a infecciones."
+    },
+    {
+        "pregunta": "¿Cómo se define una tasa en demografía según las notas?",
+        "respuesta": "d",
+        "a": "a/b donde el numerador está incluido en el denominador, aunque sin considerar el tiempo específico.",
+        "b": "a/(a+b) sin incluir el tiempo, lo cual no representa una tasa propiamente dicha.",
+        "c": "a/b multiplicado por 1000, lo cual es una forma de expresar la tasa, pero falta el componente temporal.",
+        "d": "(a/(a+b)) x tiempo, donde el numerador está incluido en el denominador y se añade el tiempo como factor crucial para definir una tasa demográfica."
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre un censo y un padrón municipal?",
+        "respuesta": "a",
+        "a": "El censo es competencia estatal, se realiza cada 10 años y es de carácter confidencial, mientras que el padrón es competencia municipal, se actualiza continuamente y sus datos son de acceso público.",
+        "b": "El censo solo incluye a ciudadanos nacionales, mientras que el padrón incluye a todos los residentes, independientemente de su nacionalidad.",
+        "c": "El padrón se actualiza cada 5 años mediante encuestas reiteradas, mientras que el censo es un recuento anual de la población.",
+        "d": "El censo recopila únicamente datos económicos, y el padrón se enfoca exclusivamente en datos demográficos de la población."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes tipos de pirámide de población se asocia con países desarrollados con baja mortalidad y baja natalidad?",
+        "respuesta": "c",
+        "a": "Pirámide en forma de pagoda, caracterizada por una base amplia y decreciente hacia la cúspide.",
+        "b": "Pirámide en forma de campana, que muestra una estabilidad en las diferentes cohortes de edad.",
+        "c": "Pirámide en forma de bulbo o cebolla, indicando una población envejecida con tasas de natalidad y mortalidad bajas.",
+        "d": "Pirámide invertida, donde hay más población en las edades avanzadas comparado con las jóvenes."
+    },
+    {
+        "pregunta": "¿Qué indicador demográfico es considerado el mejor marcador del nivel sanitario de un país?",
+        "respuesta": "a",
+        "a": "Tasa de mortalidad infantil.",
+        "b": "Índice sintético de fertilidad.",
+        "c": "Tasa de natalidad.",
+        "d": "Esperanza de vida."
+    },
+    {
+        "pregunta": "¿Cuál es el índice sintético de fertilidad necesario para un recambio generacional?",
+        "respuesta": "b",
+        "a": "1.5 hijos por mujer.",
+        "b": "2.1 hijos por mujer.",
+        "c": "2.5 hijos por mujer.",
+        "d": "3.0 hijos por mujer."
+    },
+    {
+        "pregunta": "¿Qué tipo de demografía estudia los cambios en la población a lo largo del tiempo y los mecanismos que los causan?",
+        "respuesta": "a",
+        "a": "Demografía dinámica.",
+        "b": "Demografía estática.",
+        "c": "Demografía comparativa.",
+        "d": "Demografía histórica."
+    },
+    {
+        "pregunta": "¿Cómo se calcula la tasa de migración según las notas?",
+        "respuesta": "c",
+        "a": "(Número de nacimientos – número de defunciones) / población total anual.",
+        "b": "(Número de inmigrantes + número de emigrantes) / población total anual.",
+        "c": "(Número de inmigrantes – número de emigrantes) / población total anual.",
+        "d": "(Número de emigrantes – número de inmigrantes) / población total anual."
+    },
+    {
+        "pregunta": "¿Qué tipo de prevención en drogodependencia se enfoca en toda la población, sin seleccionar grupos específicos?",
+        "respuesta": "b",
+        "a": "Prevención indicada.",
+        "b": "Prevención universal.",
+        "c": "Prevención selectiva.",
+        "d": "Prevención terciaria."
+    },
+    {
+        "pregunta": "¿Cuál es la fórmula correcta para calcular la tasa de natalidad?",
+        "respuesta": "a",
+        "a": "Número de recién nacidos vivos / población total media en un año.",
+        "b": "Número de muertes infantiles / número de recién nacidos vivos.",
+        "c": "Número de inmigrantes – número de emigrantes / población total anual.",
+        "d": "Número de fallecimientos en <1 año / 1,000 RN vivos en un año."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes características NO corresponde a la planificación sanitaria?",
+        "respuesta": "c",
+        "a": "Es un proceso sistemático.",
+        "b": "Está basada en la evidencia.",
+        "c": "Es estática y rígida.",
+        "d": "Es dinámica y flexible."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe correctamente la función de un programa en la planificación sanitaria?",
+        "respuesta": "c",
+        "a": "Establecer directrices y objetivos a largo plazo.",
+        "b": "Ejecutar las acciones específicas.",
+        "c": "Implementar acciones para alcanzar los objetivos del plan a corto-medio plazo.",
+        "d": "Evaluar los resultados obtenidos."
+    },
+    {
+        "pregunta": "¿Cuál es la primera etapa en el proceso de planificación sanitaria según el texto?",
+        "respuesta": "b",
+        "a": "Formulación de objetivos.",
+        "b": "Análisis de la situación.",
+        "c": "Evaluación de resultados.",
+        "d": "Asignación de recursos."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes métodos es considerado como método mixto para el análisis de la situación en planificación sanitaria?",
+        "respuesta": "c",
+        "a": "Indicadores cuantitativos.",
+        "b": "Entrevistas.",
+        "c": "Cuestionarios.",
+        "d": "Grupos focales."
+    },
+    {
+        "pregunta": "Según el método de Hanlon, ¿qué factores se multiplican para establecer prioridades en la planificación sanitaria?",
+        "respuesta": "b",
+        "a": "Magnitud, gastos, eficacia.",
+        "b": "Magnitud, gravedad, eficacia y factibilidad.",
+        "c": "Gravedad, vulnerabilidad, recursos.",
+        "d": "Magnitud, vulnerabilidad, recursos."
+    },
+    {
+        "pregunta": "¿Qué significa la \"A\" en el acrónimo eSMART utilizado para la formulación de objetivos en planificación sanitaria?",
+        "respuesta": "a",
+        "a": "Alcanzables.",
+        "b": "Análisis.",
+        "c": "Acción.",
+        "d": "Asignación."
+    },
+    {
+        "pregunta": "¿Qué término se refiere a la capacidad de un programa de salud para producir un efecto en condiciones ideales?",
+        "respuesta": "a",
+        "a": "Eficacia.",
+        "b": "Efectividad.",
+        "c": "Eficiencia.",
+        "d": "Viabilidad."
+    },
+    {
+        "pregunta": "¿Cómo se denomina el efecto de un programa de salud cuando se implementa en condiciones reales, enfocándose en alcanzar un objetivo sin considerar el precio?",
+        "respuesta": "b",
+        "a": "Eficacia.",
+        "b": "Efectividad.",
+        "c": "Eficiencia.",
+        "d": "Sostenibilidad."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes términos describe la capacidad de producir un efecto con el menor coste posible?",
+        "respuesta": "c",
+        "a": "Eficacia.",
+        "b": "Efectividad.",
+        "c": "Eficiencia.",
+        "d": "Rentabilidad."
+    },
+    {
+        "pregunta": "¿Cuál es la definición principal de evaluación sanitaria?",
+        "respuesta": "a",
+        "a": "Comparar lo planificado con lo conseguido para medir el impacto de la acción y tomar medidas correctoras.",
+        "b": "Implementar acciones para alcanzar los objetivos a corto plazo.",
+        "c": "Identificar y priorizar los problemas de salud en una población.",
+        "d": "Asignar recursos de manera eficiente en el sistema de salud."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes fases NO corresponde al proceso de evaluación sanitaria?",
+        "respuesta": "d",
+        "a": "Definir objetivos y alcance.",
+        "b": "Recopilar y analizar datos.",
+        "c": "Interpretar resultados y hacer recomendaciones.",
+        "d": "Desarrollar nuevas tecnologías sanitarias."
+    },
+    {
+        "pregunta": "¿Qué tipo de evaluación se realiza de forma prospectiva para valorar la factibilidad de las acciones antes de ejecutarlas?",
+        "respuesta": "b",
+        "a": "Evaluación operativa.",
+        "b": "Evaluación estratégica.",
+        "c": "Evaluación táctica.",
+        "d": "Evaluación económica."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes dimensiones se refiere a la capacidad de un sistema de salud para atender a todas las personas sin discriminación?",
+        "respuesta": "c",
+        "a": "Accesibilidad.",
+        "b": "Eficiencia.",
+        "c": "Equidad.",
+        "d": "Satisfacción del usuario."
+    },
+    {
+        "pregunta": "¿Qué técnica de investigación se utiliza principalmente para medir la efectividad en la evaluación sanitaria?",
+        "respuesta": "d",
+        "a": "Ensayos clínicos aleatorizados.",
+        "b": "Series temporales.",
+        "c": "Simulaciones.",
+        "d": "Estudios de cohortes o casos y controles."
+    },
+    {
+        "pregunta": "En el contexto de evaluación sanitaria, ¿qué característica debe tener un indicador para ser útil?",
+        "respuesta": "a",
+        "a": "Debe ser sencillo y determinado de antemano.",
+        "b": "Debe ser complejo y multidimensional.",
+        "c": "Debe ser flexible y ajustarse a cambios frecuentes.",
+        "d": "Debe ser exclusivo para cada institución."
+    },
+    {
+        "pregunta": "¿Cuál es la principal función de la AEMPS en relación con la tecnología sanitaria?",
+        "respuesta": "b",
+        "a": "Financiar investigaciones médicas.",
+        "b": "Regular la introducción de nuevas tecnologías y promover su uso apropiado.",
+        "c": "Implementar programas de salud pública.",
+        "d": "Evaluar la equidad en el acceso a servicios de salud."
+    },
+    {
+        "pregunta": "¿Qué tipo de evaluación se enfoca en analizar los resultados obtenidos una vez finalizado el programa?",
+        "respuesta": "c",
+        "a": "Evaluación estratégica.",
+        "b": "Evaluación táctica.",
+        "c": "Evaluación operativa.",
+        "d": "Evaluación de calidad."
+    },
+    {
+        "pregunta": "¿Qué modelo matemático es comúnmente utilizado en las técnicas de análisis predictivo para la evaluación sanitaria?",
+        "respuesta": "d",
+        "a": "Análisis factorial.",
+        "b": "Teoría de juegos.",
+        "c": "Modelos de optimización.",
+        "d": "Modelos de regresión."
+    },
+    {
+        "pregunta": "¿Cuál es el principal objetivo de la evaluación económica de la salud?",
+        "respuesta": "b",
+        "a": "Maximizar la cobertura de los servicios de salud en la población",
+        "b": "Optimizar el uso de recursos para obtener el máximo beneficio posible",
+        "c": "Minimizar los gastos sanitarios sin considerar los resultados clínicos",
+        "d": "Fomentar la innovación tecnológica en el sector sanitario mediante subsidios"
+    },
+    {
+        "pregunta": "¿De dónde se obtienen los datos utilizados en la gestión hospitalaria para la evaluación económica?",
+        "respuesta": "a",
+        "a": "Del Registro de Actividad Asistencial (RAA)",
+        "b": "De encuestas a pacientes sobre su satisfacción",
+        "c": "De estudios de cohortes longitudinales",
+        "d": "De análisis cualitativos mediante grupos focales"
+    },
+    {
+        "pregunta": "¿Qué clasifican los Grupos Relacionados con el Diagnóstico (GRD) en el contexto hospitalario?",
+        "respuesta": "c",
+        "a": "Los diferentes niveles de especialización del personal médico",
+        "b": "Las tecnologías sanitarias según su coste y demanda",
+        "c": "A los pacientes con el mismo diagnóstico en varios grupos según su consumo de recursos",
+        "d": "Las etapas del ciclo de tratamiento de un paciente en el sistema de salud"
+    },
+    {
+        "pregunta": "En la evaluación económica de la salud, ¿qué tipo de costos incluyen los traslados y cuidados en casa?",
+        "respuesta": "a",
+        "a": "Costos no sanitarios directos",
+        "b": "Costos sanitarios indirectos asociados al ausentismo laboral",
+        "c": "Costos intangibles relacionados con la calidad de vida",
+        "d": "Costos sanitarios directos de intervenciones médicas"
+    },
+    {
+        "pregunta": "¿Para qué se utilizan las tasas de descuento en la evaluación económica de la salud?",
+        "respuesta": "d",
+        "a": "Para ajustar los costos sanitarios directos a la inflación",
+        "b": "Para calcular la eficiencia relativa de diferentes intervenciones",
+        "c": "Para valorar la equidad en la distribución de recursos sanitarios",
+        "d": "Para comparar costes y beneficios que ocurren en diferentes momentos en el tiempo"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones describe mejor la evaluación de coste-efectividad?",
+        "respuesta": "b",
+        "a": "Comparar los beneficios monetarios de dos tratamientos diferentes",
+        "b": "Comparar el coste de un tratamiento con su efectividad en unidades de resultado clínico",
+        "c": "Elegir la opción más barata sin considerar los resultados terapéuticos",
+        "d": "Medir la utilidad de un tratamiento en términos de años de vida ajustados por calidad (AVAC)"
+    },
+    {
+        "pregunta": "¿Qué representa un AVAC de 1 en la evaluación de coste-utilidad?",
+        "respuesta": "a",
+        "a": "Una salud perfecta según los estándares definidos",
+        "b": "Una situación de salud peor que la muerte",
+        "c": "La muerte o ausencia total de calidad de vida",
+        "d": "La máxima eficiencia en el uso de recursos disponibles"
+    },
+    {
+        "pregunta": "¿Cuál es la finalidad del análisis de sensibilidad en la evaluación económica de la salud?",
+        "respuesta": "c",
+        "a": "Determinar el costo total de una intervención bajo condiciones ideales",
+        "b": "Comparar diferentes tecnologías sanitarias en un entorno controlado",
+        "c": "Evaluar cómo las variaciones en las variables económicas y epidemiológicas afectan los costos y beneficios",
+        "d": "Calcular la tasa de descuento óptima para ajustar los estudios de costo-beneficio"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes dimensiones NO forma parte de la valoración de la calidad asistencial?",
+        "respuesta": "d",
+        "a": "Eficiencia en el uso de recursos",
+        "b": "Accesibilidad a los servicios de salud",
+        "c": "Seguridad del paciente durante los tratamientos",
+        "d": "Rentabilidad financiera de las instituciones de salud"
+    },
+    {
+        "pregunta": "¿Qué modelo de gestión de calidad es específico para centros sanitarios y otorga una acreditación al cumplir con sus estándares?",
+        "respuesta": "a",
+        "a": "Modelo JOINT",
+        "b": "Modelo de Aseguramiento de la Calidad de la Organización Mundial de la Salud (OMS)",
+        "c": "Modelo de Calidad para Sistemas de Salud (QSS)",
+        "d": "Modelo de Excelencia en Gestión Sanitaria (MEGS)"
+    },
+    {
+        "pregunta": "En el ciclo de mejora continua de calidad (PLAN, DO, CHECK, ACT), ¿qué etapa corresponde a la ejecución de las acciones planificadas?",
+        "respuesta": "b",
+        "a": "PLAN: Definición de objetivos y procesos necesarios",
+        "b": "DO: Implementación de las acciones y cambios planificados",
+        "c": "CHECK: Monitoreo y evaluación de los resultados obtenidos",
+        "d": "ACT: Ajuste y estandarización de los procesos tras la evaluación"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes modelos de gestión de calidad está orientado a la satisfacción tanto del paciente como de los empleados y busca destacar al mejor mediante un premio?",
+        "respuesta": "c",
+        "a": "Modelo Baldrige",
+        "b": "Modelo Total Quality Management (TQM)",
+        "c": "Modelo EFQM",
+        "d": "Modelo Lean Healthcare"
+    },
+    {
+        "pregunta": "¿Cuál es la principal diferencia entre indicadores y estándares de calidad en el contexto asistencial?",
+        "respuesta": "a",
+        "a": "Un indicador compara el desempeño (mejor, peor, igual) mientras que un estándar establece con quién se compara (como Gold Estándar)",
+        "b": "Los indicadores miden aspectos cuantitativos y los estándares aspectos cualitativos de la calidad",
+        "c": "Los indicadores son utilizados para la mejora continua y los estándares para la acreditación externa",
+        "d": "Los indicadores se enfocan en la satisfacción del paciente y los estándares en la eficiencia operativa"
+    },
+    {
+        "pregunta": "¿Qué modelo de aseguramiento de calidad es aplicable a cualquier tipo de empresa y es realizado por expertos en evaluación, otorgando un certificado al cumplir?",
+        "respuesta": "b",
+        "a": "Modelo Baldrige",
+        "b": "Modelo ISO",
+        "c": "Modelo Six Sigma",
+        "d": "Modelo Malcolm Baldrige"
+    },
+    {
+        "pregunta": "¿Cuál es la función principal del coordinador de calidad en la jerarquización de calidad dentro de un hospital?",
+        "respuesta": "d",
+        "a": "Desarrollar nuevas tecnologías sanitarias y supervisar su implementación",
+        "b": "Gestionar el presupuesto de calidad y asignar recursos a diferentes departamentos",
+        "c": "Realizar auditorías externas y preparar informes para organismos reguladores",
+        "d": "Asesorar a la dirección en el programa y objetivos de calidad, y ayudar a los profesionales a aplicarlos"
+    },
+    {
+        "pregunta": "¿Qué modelo de gestión de calidad se centra en demostrar que se está haciendo bien y prevenir errores?",
+        "respuesta": "b",
+        "a": "Modelo EFQM",
+        "b": "Aseguramiento de calidad",
+        "c": "Control estadístico de procesos",
+        "d": "Gestión de calidad total"
+    },
+    {
+        "pregunta": "¿Qué modelo de gestión de calidad es utilizado para determinar si se cumplen las especificaciones técnicas y detectar errores en el servicio sanitario?",
+        "respuesta": "c",
+        "a": "Modelo de Excelencia en Gestión Sanitaria",
+        "b": "Modelo de Mejora Continua",
+        "c": "Control de calidad",
+        "d": "Modelo de Evaluación de Desempeño"
+    },
+    {
+        "pregunta": "Según la OMS, ¿cuál de las siguientes NO es una característica de un sistema de salud?",
+        "respuesta": "d",
+        "a": "Universalidad",
+        "b": "Integralidad",
+        "c": "Equitativo",
+        "d": "Rentabilidad"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes tipos de financiación del sistema de salud se basa en contribuciones privadas para un seguro privado?",
+        "respuesta": "c",
+        "a": "Financiación a través de impuestos generales",
+        "b": "Financiación mediante contribuciones sociales obligatorias",
+        "c": "Contribuciones privadas",
+        "d": "Financiación por medio de subvenciones gubernamentales"
+    },
+    {
+        "pregunta": "En el tipo de pago a proveedores denominado 'por contrato', ¿qué se establece entre el financiador y el proveedor?",
+        "respuesta": "b",
+        "a": "Reembolso posterior a la prestación del servicio basado en facturas",
+        "b": "Cantidad y condiciones determinadas de antemano",
+        "c": "Acuerdos de patrocinio para eventos de salud",
+        "d": "Pago basado en la satisfacción del paciente y resultados clínicos"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes modelos sanitarios está basado en el sistema de seguro social tipo Bismarck?",
+        "respuesta": "a",
+        "a": "Modelo de Seguro Social",
+        "b": "Modelo Beveridge",
+        "c": "Modelo de Libre Mercado",
+        "d": "Modelo de Atención Primaria"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes modelos sanitarios se caracteriza por ser financiado mediante contribución social obligatoria y es típico de países como España e Italia?",
+        "respuesta": "b",
+        "a": "Modelo de Libre Mercado",
+        "b": "Sistema Nacional de Salud (Beveridge)",
+        "c": "Modelo de Seguro Social (Bismarck)",
+        "d": "Modelo Mixto de Financiación"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes leyes es la que define el catálogo de prestaciones básicas y comunes en el Sistema Nacional de Salud español?",
+        "respuesta": "c",
+        "a": "Ley 14/1986 de Ordenación de las Profesiones Sanitarias",
+        "b": "Real Decreto Ley 16/2012 de reforma de servicios de salud",
+        "c": "Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud",
+        "d": "Ley General de Sanidad de 1986"
+    },
+    {
+        "pregunta": "En el contexto de los modelos sanitarios, ¿cómo se define la salud según el concepto de 'bien de consumo'?",
+        "respuesta": "d",
+        "a": "Como un derecho fundamental de los ciudadanos",
+        "b": "Como un servicio público esencial proporcionado por el Estado",
+        "c": "Como una necesidad biológica básica que debe ser satisfecha universalmente",
+        "d": "Como un producto que puede ser adquirido y consumido en el mercado"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una de las principales limitaciones de los sistemas sanitarios mencionadas en el tema?",
+        "respuesta": "a",
+        "a": "Alto coste y envejecimiento de la población",
+        "b": "Exceso de personal sanitario sin una demanda correspondiente",
+        "c": "Demasiada flexibilidad administrativa que dificulta la implementación de políticas",
+        "d": "Baja demanda de servicios de salud en poblaciones jóvenes"
+    },
+    {
+        "pregunta": "¿Qué Real Decreto Ley divide la cartera de servicios en común básica, suplementaria y de servicios accesorios en el Sistema Nacional de Salud español?",
+        "respuesta": "b",
+        "a": "Real Decreto Ley 14/1986 de carácter general",
+        "b": "Real Decreto Ley 16/2012 de reforma de la salud",
+        "c": "Real Decreto Ley 20/2000 de reestructuración sanitaria",
+        "d": "Real Decreto Ley 10/1998 de garantías y prestaciones"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes subsistemas forma parte del sistema sanitario español?",
+        "respuesta": "b",
+        "a": "Instituciones de Salud Privada Reguladas",
+        "b": "Mutuas Colaboradoras con la Seguridad Social",
+        "c": "Organismos Internacionales de Salud",
+        "d": "Servicios de Salud Militar y de Defensa"
+    },
+    {
+        "pregunta": "¿Qué modelo sanitario se utiliza en el Sistema Nacional de Salud español y cuáles son sus características principales?",
+        "respuesta": "a",
+        "a": "Modelo Beveridge: financiación pública, descentralizado, equitativo y catálogo de servicios integrales",
+        "b": "Modelo Bismarck: financiación mediante seguros sociales obligatorios, con una presencia significativa del sector privado y estructura descentralizada",
+        "c": "Modelo de Libre Mercado: predominancia de la financiación privada, competencia entre proveedores y acceso basado en seguros privados",
+        "d": "Modelo Mixto: combinación de financiación pública y privada, con roles compartidos en la prestación de servicios y regulación centralizada"
+    },
+    {
+        "pregunta": "¿Cuál es el porcentaje aproximado del PIB que representa el gasto sanitario en España y cómo se distribuye entre público y privado?",
+        "respuesta": "c",
+        "a": "9% del PIB: 7% público y 2% privado",
+        "b": "10% del PIB: 7% público y 3% privado",
+        "c": "11% del PIB: 8% público y 3% privado",
+        "d": "12% del PIB: 9% público y 3% privado"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes opciones no es una ventaja del sector privado en el sistema sanitario español?",
+        "respuesta": "d",
+        "a": "Reducción de los tiempos de espera para ciertas especialidades",
+        "b": "Mayor flexibilidad en la gestión de citas y horarios",
+        "c": "Acceso a tecnologías y tratamientos avanzados de forma más rápida",
+        "d": "Mayor equidad en el acceso a servicios para toda la población"
+    },
+    {
+        "pregunta": "¿Qué tipo de seguro sanitario permite al usuario elegir entre varios hospitales y médicos, seleccionando la cobertura deseada?",
+        "respuesta": "a",
+        "a": "Seguro de Asistencia Sanitaria Integral",
+        "b": "Seguro de Reembolso Directo",
+        "c": "Seguro de Protección Complementaria",
+        "d": "Seguro Dental Avanzado"
+    },
+    {
+        "pregunta": "¿Qué fondo está destinado a cubrir los gastos por desplazamientos temporales entre comunidades autónomas para tratamientos normales en el Sistema Nacional de Salud español?",
+        "respuesta": "b",
+        "a": "Fondo de Movilidad Sanitaria",
+        "b": "Fondo de Garantía Asistencial",
+        "c": "Fondo de Cooperación Interregional",
+        "d": "Fondo de Respuesta Sanitaria Rápida"
+    },
+    {
+        "pregunta": "¿Cuáles son las competencias de las comunidades autónomas en el sistema sanitario español?",
+        "respuesta": "d",
+        "a": "Planificación sanitaria y desarrollo de investigaciones médicas",
+        "b": "Financiación de infraestructuras hospitalarias y adquisición de equipos médicos",
+        "c": "Organización de servicios de urgencias y emergencias nacionales",
+        "d": "Planificación sanitaria, salud pública, gestión de la cartera específica de servicios, organización en áreas de salud, prevención y promoción de la salud"
+    },
+    {
+        "pregunta": "En el modelo de organización del sistema sanitario español, ¿cómo se dividen las áreas de salud?",
+        "respuesta": "c",
+        "a": "En grandes regiones metropolitanas con múltiples centros hospitalarios especializados",
+        "b": "En departamentos administrativos centralizados a nivel nacional",
+        "c": "En zonas básicas de salud con una zona de referencia y al menos un hospital y un centro de especialidades",
+        "d": "En unidades móviles de atención primaria que operan en toda la comunidad autónoma"
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes factores no se considera al delimitar un área de salud?",
+        "respuesta": "c",
+        "a": "Factores geográficos como fronteras naturales y urbanización",
+        "b": "Factores epidemiológicos basados en la prevalencia de enfermedades",
+        "c": "Preferencias individuales de los pacientes respecto a centros específicos",
+        "d": "Dotación de recursos e instalaciones disponibles en la zona"
+    },
+    {
+        "pregunta": "¿Cuántas personas típicamente atiende una zona básica de salud en España rural?",
+        "respuesta": "a",
+        "a": "Entre 5.000 y 25.000 personas",
+        "b": "Entre 30.000 y 50.000 personas",
+        "c": "Entre 50.000 y 100.000 personas",
+        "d": "Más de 150.000 personas"
+    },
+    {
+        "pregunta": "¿Cuál es una característica fundamental de la Atención Primaria de Salud (APS)?",
+        "respuesta": "d",
+        "a": "Especialización en patologías complejas y procedimientos especializados",
+        "b": "Acceso restringido a determinados grupos de población con necesidades específicas",
+        "c": "Enfoque exclusivamente hospitalario y de alta complejidad",
+        "d": "Integral, continua y accesible para todos los individuos en la comunidad"
+    },
+    {
+        "pregunta": "¿Qué función no corresponde al director de un equipo de salud en la APS?",
+        "respuesta": "b",
+        "a": "Organización y representación del equipo ante otras entidades",
+        "b": "Realizar diagnósticos clínicos a los pacientes",
+        "c": "Dirección y gestión de los recursos del equipo de salud",
+        "d": "Fomentar la docencia e investigación en el ámbito de la atención primaria"
+    },
+    {
+        "pregunta": "¿Cómo se clasifica la atención especializada según su tamaño y recursos?",
+        "respuesta": "a",
+        "a": "En grupos del 1 al 5 según número de camas y disponibilidad de recursos específicos",
+        "b": "Por la ubicación geográfica del centro de salud y su accesibilidad",
+        "c": "Según la población total atendida en el área de salud correspondiente",
+        "d": "En función del presupuesto anual asignado al hospital o centro especializado"
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes no es una estrategia para disminuir las listas de espera en la atención especializada?",
+        "respuesta": "c",
+        "a": "Aumentar las horas de trabajo de los médicos especialistas y contratar personal adicional",
+        "b": "Incorporar al sector privado para ampliar la capacidad asistencial",
+        "c": "Reducir el número de especialistas disponibles para centralizar la atención",
+        "d": "Ofrecer incentivos económicos y profesionales para mejorar la eficiencia en la atención"
+    },
+    {
+        "pregunta": "¿Cuál es una diferencia clave entre la atención primaria y la atención especializada?",
+        "respuesta": "b",
+        "a": "La atención primaria solo ofrece servicios de prevención y promoción de la salud",
+        "b": "La atención especializada maneja patologías más complejas y generalmente requiere hospitalización",
+        "c": "La atención primaria está restringida a ciertos grupos de población con condiciones específicas",
+        "d": "La atención especializada no permite derivaciones desde la atención primaria y opera de manera independiente"
+    }
+]
